@@ -512,5 +512,486 @@
     "category": "general",
     "source": "me",
     "verified": true
+  },
+  {
+    "id": "n17813535697917007",
+    "text": "[단기기억·책 인덱스] 작업 시 키워드로 [책:...] 노트를 골라 참고한다. 블로그·콘텐츠→마케팅 책, ESG·투자·전략→사업 책, 글쓰기 품질→일반(글쓰기) 책, AI·자동화→코딩/일반. 한 노트=한 개념. 중복 주제는 가장 구체적인 노트 우선.",
+    "tags": [
+      "단기기억",
+      "인덱스",
+      "책",
+      "문맥"
+    ],
+    "ts": 1781353569791,
+    "category": "general",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697915787",
+    "text": "[책:기억에 남는 이야기|Chip Heath|marketing|SUCCESs,메시지,훅] 주제: 왜 어떤 아이디어는 남고 어떤 건 사라지나 | 핵심: SUCCESs — Simple(단순) Unexpected(의외) Concrete(구체) Credible(신뢰) Emotional(감정) Stories(이야기) | 적용: 블로그 제목·첫 문단·결론에 SUCCESs 2개 이상 넣기",
+    "tags": [
+      "책",
+      "기억에남는이야기",
+      "SUCCESs",
+      "메시지",
+      "블로그"
+    ],
+    "ts": 1781353569792,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697912398",
+    "text": "[책:기억에 남는 이야기|Chip Heath|marketing|단순,핵심] 주제: Simple | 핵심: '핵심 한 문장'을 먼저 찾고 나머지는 그걸 뒷받침 | 적용: 글 맨 앞에 '이 글의 한 줄' 박스 또는 굵은 문장 1개",
+    "tags": [
+      "책",
+      "기억에남는이야기",
+      "단순",
+      "훅"
+    ],
+    "ts": 1781353569793,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697915524",
+    "text": "[책:기억에 남는 이야기|Chip Heath|marketing|구체,예시] 주제: Concrete | 핵심: 추상어(혁신·지속가능) 대신 숫자·사례·장면 묘사 | 적용: ESG·AI 글에 '연 30%·3가지 단계·실제 상황' 형태로 구체화",
+    "tags": [
+      "책",
+      "기억에남는이야기",
+      "구체",
+      "예시"
+    ],
+    "ts": 1781353569794,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697916857",
+    "text": "[책:기억에 남는 이야기|Chip Heath|marketing|감정,공감] 주제: Emotional | 핵심: 사람은 논리보다 '나에게 무슨 의미?'에 반응 | 적용: 블로그.MD '경험 가치' — 독자의 불안·희망·자랑거리에 맞춘 서론",
+    "tags": [
+      "책",
+      "기억에남는이야기",
+      "감정",
+      "공감"
+    ],
+    "ts": 1781353569795,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697917499",
+    "text": "[책:Contagious|Jonah Berger|marketing|STEPPS,바이럴,공유] 주제: STEPPS 6원칙 | 핵심: Social Currency(지위)·Triggers(연상)·Emotion(고각성 감정)·Public(눈에 보임)·Practical Value(유용)·Stories(내러티브) | 적용: 공유하고 싶은 한 줄·댓글 유도 질문 설계",
+    "tags": [
+      "책",
+      "Contagious",
+      "바이럴",
+      "STEPPS"
+    ],
+    "ts": 1781353569796,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697912200",
+    "text": "[책:Contagious|Jonah Berger|marketing|트리거,키워드,SEO] 주제: Triggers | 핵심: 평소 자주 떠올리는 상황과 글을 연결 (아침·월요일·환율·AI 뉴스 등) | 적용: web_search 인기 키워드 + 일상 트리거 결합 제목",
+    "tags": [
+      "책",
+      "Contagious",
+      "트리거",
+      "키워드"
+    ],
+    "ts": 1781353569797,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697912882",
+    "text": "[책:Contagious|Jonah Berger|marketing|실용,체크리스트,가이드] 주제: Practical Value | 핵심: '바로 써먹는 팁'이 공유된다 | 적용: 본문에 3~5개 actionable bullet, 결론에 체크리스트",
+    "tags": [
+      "책",
+      "Contagious",
+      "실용가치"
+    ],
+    "ts": 1781353569798,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697917886",
+    "text": "[책:Influence|Robert Cialdini|marketing|설득,칼디니,CTA] 주제: 6대 설득 원칙 | 핵심: Reciprocity(호혜)·Commitment(일관)·Social Proof(사회적 증거)·Authority(권위)·Liking(호감)·Scarcity(희소) | 적용: 블로그 CTA·신뢰 문구·사례 인용",
+    "tags": [
+      "책",
+      "Influence",
+      "설득",
+      "칼디니"
+    ],
+    "ts": 1781353569799,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697912235",
+    "text": "[책:Influence|Robert Cialdini|marketing|사회적증거,리뷰,데이터] 주제: Social Proof | 핵심: '다른 사람도 그렇게 한다'는 정보가 행동을 바꿈 | 적용: 통계·트렌드·'많은 기업이' 근거 (출처 명시)",
+    "tags": [
+      "책",
+      "Influence",
+      "사회적증거"
+    ],
+    "ts": 1781353569800,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n1781353569791855",
+    "text": "[책:Influence|Robert Cialdini|marketing|권위,전문성,ESG] 주제: Authority | 핵심: 전문성·자격·데이터로 신뢰 | 적용: ESG·AI 글에 프레임워크·규제·연구 인용 (과장 금지)",
+    "tags": [
+      "책",
+      "Influence",
+      "권위"
+    ],
+    "ts": 1781353569801,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697919813",
+    "text": "[책:Building a StoryBrand|Donald Miller|marketing|SB7,스토리,고객영웅] 주제: SB7 프레임 | 핵심: 고객=영웅, 브랜드=가이드. 문제→가이드 등장→계획→행동 유도→성공/실패 | 적용: '사장님/독자'를 주인공으로 두는 블로그 서사",
+    "tags": [
+      "책",
+      "StoryBrand",
+      "스토리",
+      "고객"
+    ],
+    "ts": 1781353569802,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697916013",
+    "text": "[책:Building a StoryBrand|Donald Miller|marketing|문제,공감,서론] 주제: 문제 3종 — External·Internal·Philosophical | 핵심: 겉 문제 + 속 불안 + '이건 옳지 않다' | 적용: 블로그.MD 서론(공감 및 문제 제기) 구조",
+    "tags": [
+      "책",
+      "StoryBrand",
+      "문제제기"
+    ],
+    "ts": 1781353569803,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697915990",
+    "text": "[책:Everybody Writes|Ann Handley|general|글쓰기,브랜드,톤] 주제: 모든 글은 마케팅 | 핵심: 유용하고 사람답게. 'So what?' 테스트 — 독자에게 뭐가 남나 | 적용: 초안 후 '독자가 얻는 것' 1문장 추가",
+    "tags": [
+      "책",
+      "Everybody Writes",
+      "글쓰기",
+      "블로그"
+    ],
+    "ts": 1781353569804,
+    "category": "general",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697917844",
+    "text": "[책:Everybody Writes|Ann Handley|general|가독성,문단,해요체] 주제: 읽기 쉬운 글 | 핵심: 짧은 문장·한 문단 한 idea·굵게·여백 | 적용: 블로그.MD 규칙 8·1500~3000자 분량 유지",
+    "tags": [
+      "책",
+      "Everybody Writes",
+      "해요체",
+      "가독성"
+    ],
+    "ts": 1781353569805,
+    "category": "general",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697919100",
+    "text": "[책:They Ask You Answer|Marcus Sheridan|marketing|SEO,질문,키워드] 주제: Big 5 질문 — 가격·문제·비교·리뷰·best | 핵심: 고객이 검색하는 질문에 정직하게 답하는 콘텐츠 | 적용: web_search 키워드 → '사람들이 진짜 묻는 것' 제목",
+    "tags": [
+      "책",
+      "They Ask You Answer",
+      "SEO",
+      "키워드"
+    ],
+    "ts": 1781353569806,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697911171",
+    "text": "[책:They Ask You Answer|Marcus Sheridan|marketing|신뢰,투명,장단점] 주제: Trust through transparency | 핵심: 단점·한계도 말하면 신뢰↑ | 적용: ESG·AI 윤리 글에 '주의할 점' 섹션",
+    "tags": [
+      "책",
+      "They Ask You Answer",
+      "신뢰",
+      "투명"
+    ],
+    "ts": 1781353569807,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697914080",
+    "text": "[책:The Lean Startup|Eric Ries|business|MVP,반복,검증] 주제: Build-Measure-Learn | 핵심: 완벽한 계획 < 빠른 실험·측정·학습 | 적용: Connect AI·블로그·유튜브를 작은 실험 단위로",
+    "tags": [
+      "책",
+      "Lean Startup",
+      "MVP",
+      "스타트업"
+    ],
+    "ts": 1781353569808,
+    "category": "business",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697913162",
+    "text": "[책:The Lean Startup|Eric Ries|business|가설,KPI,피벗] 주제: Validated Learning | 핵심: '우리가 맞다'가 아니라 '무엇이 맞는지 증명' | 적용: 콘텐츠도 주제별 조회·공유·전환 가설 세우기",
+    "tags": [
+      "책",
+      "Lean Startup",
+      "가설",
+      "지표"
+    ],
+    "ts": 1781353569809,
+    "category": "business",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697919519",
+    "text": "[책:Zero to One|Peter Thiel|business|독점,차별,보랏빛소] 주제: 0→1 vs 1→n | 핵심: 복제(경쟁)보다 새로운 가치(독점적 insight) | 적용: 보랏빛 소와 연결 — '남들과 같은 블로그' 회피",
+    "tags": [
+      "책",
+      "Zero to One",
+      "독점",
+      "차별화"
+    ],
+    "ts": 1781353569810,
+    "category": "business",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697911896",
+    "text": "[책:Zero to One|Peter Thiel|business|역발상,질문,관점] 주제: '맞는 것에 동의하지 말고, 틀린 것에 도전' | 핵심: 남들이 믿는 상식에 contrarian 관점 | 적용: ESG·AI·1인 사업 글에 독특한 thesis 1개",
+    "tags": [
+      "책",
+      "Zero to One",
+      "역발상"
+    ],
+    "ts": 1781353569811,
+    "category": "business",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n1781353569791347",
+    "text": "[책:On Writing Well|William Zinsser|general|명료,군더더기,편집] 주제: Clarity | 핵심: 군더더기·관용구·패러다임 남용 제거. 동사는 강하게 | 적용: 블로그.MD '독창적 문장' — 초안 후 20% 삭제",
+    "tags": [
+      "책",
+      "On Writing Well",
+      "글쓰기",
+      "명료"
+    ],
+    "ts": 1781353569812,
+    "category": "general",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697918314",
+    "text": "[책:On Writing Well|William Zinsser|general|독자,존중,해요체] 주제: Respect the reader | 핵심: 독자 시간을 낭비하지 말 것 | 적용: 서론 3문단 안에 '왜 읽어야 하는지' 답",
+    "tags": [
+      "책",
+      "On Writing Well",
+      "독자"
+    ],
+    "ts": 1781353569813,
+    "category": "general",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697911370",
+    "text": "[책:Hook Point|Brendan Kane|marketing|훅,3초,쇼츠,유튜브] 주제: 3-second rule | 핵심: 첫 3초(또는 첫 2문장)에 '멈추는 이유' | 적용: 블로그 제목+리드, 유튜브·쇼츠 각도 기획",
+    "tags": [
+      "책",
+      "Hook Point",
+      "훅",
+      "유튜브",
+      "쇼츠"
+    ],
+    "ts": 1781353569814,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697919817",
+    "text": "[책:Hook Point|Brendan Kane|marketing|패턴,반복,포맷] 주제: Hook patterns | 핵심: 질문·충격 통계·반전·Before-After 등 검증된 패턴 | 적용: 키워드 글마다 패턴 1개 선택",
+    "tags": [
+      "책",
+      "Hook Point",
+      "패턴"
+    ],
+    "ts": 1781353569815,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697916331",
+    "text": "[책:Green to Gold|Esty & Winston|business|ESG,지속가능,비즈니스] 주제: ESG=비용 아닌 기회 | 핵심: 환경·사회 이슈를 혁신·브랜드·리스크 관리로 | 적용: blog_esg·blog_sustainable 계열 글 프레임",
+    "tags": [
+      "책",
+      "Green to Gold",
+      "ESG",
+      "지속가능"
+    ],
+    "ts": 1781353569816,
+    "category": "business",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n1781353569791724",
+    "text": "[책:Green to Gold|Esty & Winston|business|그린워싱,신뢰,투명] 주제: Greenwashing risk | 핵심: 말과 행동 불일치는 역효과 | 적용: blog3 그린워싱 주제 — 구체적 행동·지표 요구",
+    "tags": [
+      "책",
+      "Green to Gold",
+      "그린워싱"
+    ],
+    "ts": 1781353569817,
+    "category": "business",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697917658",
+    "text": "[책:Green to Gold|Esty & Winston|business|공급망,순환,Scope3] 주제: Supply chain sustainability | 핵심: Scope 1~3, 협력사·순환경제 | 적용: blog_supply_chain·circular 시리즈",
+    "tags": [
+      "책",
+      "Green to Gold",
+      "공급망"
+    ],
+    "ts": 1781353569818,
+    "category": "business",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697915979",
+    "text": "[책:AI Superpowers|Kai-Fu Lee|general|AI,자동화,ConnectAI] 주제: AI waves | 핵심: AI=도구 증폭. 반복·패턴 업무 자동화, 창의·공감은 사람 | 적용: Connect AI·블로그 자동화 포지셔닝",
+    "tags": [
+      "책",
+      "AI Superpowers",
+      "AI",
+      "자동화"
+    ],
+    "ts": 1781353569819,
+    "category": "general",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697919001",
+    "text": "[책:AI Superpowers|Kai-Fu Lee|general|AI윤리,거버넌스,규제] 주제: AI & society | 핵심: 기술 속도 > 규제·윤리 정착 속도 | 적용: blog_ai_ethics·blog3_ai_regulation 시리즈",
+    "tags": [
+      "책",
+      "AI Superpowers",
+      "윤리"
+    ],
+    "ts": 1781353569820,
+    "category": "general",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697914408",
+    "text": "[책:Thinking, Fast and Slow|Daniel Kahneman|business|인지편향,데이터,의사결정] 주제: System 1 vs 2 | 핵심: 빠른 직관 vs 느린 분석. 마케팅은 System 1, B2B·ESG는 근거(System 2)도 | 적용: 감성 서론 + 데이터 본론 구조",
+    "tags": [
+      "책",
+      "Thinking Fast and Slow",
+      "인지",
+      "데이터"
+    ],
+    "ts": 1781353569821,
+    "category": "business",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697913090",
+    "text": "[책:Thinking, Fast and Slow|Daniel Kahneman|business|프레이밍,손실회피] 주제: Loss aversion | 핵심: '얻는 것'보다 '잃는 것'에 2배 민감 | 적용: ESG·리스크·환율·인플레이션 글 제목·훅",
+    "tags": [
+      "책",
+      "Thinking Fast and Slow",
+      "프레이밍"
+    ],
+    "ts": 1781353569822,
+    "category": "business",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697912581",
+    "text": "[책:The Mom Test|Rob Fitzpatrick|business|고객,질문,니즈] 주제: 좋은 질문 | 핵심: '이 아이디어 어때?' X → '지난번 X할 때 어떻게 했어?' O | 적용: 블로그 주제를 독자 '실제 행동·고민'에서 찾기",
+    "tags": [
+      "책",
+      "The Mom Test",
+      "고객",
+      "인터뷰"
+    ],
+    "ts": 1781353569823,
+    "category": "business",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n1781353569791569",
+    "text": "[작업→책 매핑] 블로그 HTML 작성: 기억에남는이야기+Everybody Writes+They Ask You Answer+보랏빛소 | 유튜브·쇼츠: Hook Point+Contagious | ESG·지속가능: Green to Gold+Influence(권위) | AI·자동화: AI Superpowers+Lean Startup | 1인사업·수익: Zero to One+Lean Startup | 설득·CTA: Influence+StoryBrand",
+    "tags": [
+      "문맥",
+      "라우팅",
+      "작업",
+      "책"
+    ],
+    "ts": 1781353569824,
+    "category": "general",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813535697917032",
+    "text": "[파일·문맥 규칙] 블로그 작업 시 read_file 우선순위: ① D:\\JINI-PRO\\BLOG\\블로그.MD ② 단기기억 [책:...] 중 키워드 매칭 노트 ③ 기존 HTML 스타일 참고. 경로 변형·번역 금지. Windows 백슬래시 유지.",
+    "tags": [
+      "문맥",
+      "파일",
+      "read_file",
+      "규칙"
+    ],
+    "ts": 1781353569825,
+    "category": "general",
+    "source": "me",
+    "verified": true
   }
 ]
