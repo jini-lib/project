@@ -706,7 +706,7 @@
   },
   {
     "id": "n17813535697917032",
-    "text": "[파일·문맥 규칙] 블로그 작업 시 read_file 우선순위: ① D:\\JINI-PRO\\BLOG\\블로그.MD ② 단기기억 [책:...] 중 키워드 매칭 노트 ③ 기존 HTML 스타일 참고. 경로 변형·번역 금지. Windows 백슬래시 유지.",
+    "text": "[파일·문맥 규칙] 블로그 작업 시 read_file 우선순위: ① D:\\JINIPRO\\BLOG\\블로그.MD ② 단기기억 [책:...] 중 키워드 매칭 노트 ③ 기존 HTML 스타일 참고. 경로 변형·번역 금지. Windows 백슬래시 유지.",
     "tags": [
       "문맥",
       "파일",
@@ -1902,7 +1902,7 @@
   },
   {
     "id": "n17814507950675247",
-    "text": "[경험:blog|2026-06-15] [CEO→Writer] **원인:** HTML 없음 — write_file 필요 **조치:** write_file로 1편 HTML 폴더: D:\\JINI-PRO\\BLOG\\2026-0 — 잠시 문제가 생겼어요. (HTTP 400: request (8212 tokens) exceeds the available context size (8192 tokens), try increasing it — 모델이 요청을 거부했어요(문맥 길이/형식 확인))",
+    "text": "[경험:blog|2026-06-15] [CEO→Writer] **원인:** HTML 없음 — write_file 필요 **조치:** write_file로 1편 HTML 폴더: D:\\JINIPRO\\BLOG\\2026-0 — 잠시 문제가 생겼어요. (HTTP 400: request (8212 tokens) exceeds the available context size (8192 tokens), try increasing it — 모델이 요청을 거부했어요(문맥 길이/형식 확인))",
     "tags": [
       "2026",
       "blog",
@@ -1945,21 +1945,6 @@
     "verified": true
   },
   {
-    "id": "n17814515431872709",
-    "text": "[단기기억·블로그.MD 전문] (파일: D:\\JINI-PRO\\BLOG\\블로그.MD)\n1.인터넷을 서치해서 인기있는 키워드를 찾고 그 키워드제목을 만들어서 블로그를 작성하고.\r\n2.분량: 공백 포함 1,500자 \\~ 3,000자 내외.\r\n3.작성 방식: 다른 글을 그대로 베끼지 말고, 독창적인 문장으로 새로 써줘.\r\n4.경험 가치: '나의 경험'이 담긴 듯한 말투와 예시를 포함해. 독자가 공감할 수 있는 친절한 어투(해요체)를 사용할 것.\r\n5.구조: 서론(공감 및 문제 제기) -> 본론(소제목을 활용한 정보 전달) -> 결론(핵심 요약 및 인사).\r\n6.주요 키워드는 \\[키워드 입력]이야. 제목과 본문에 자연스럽게 녹여줘.\r\n7.이미지: 글 중간에 \\[사진: \\~에 대한 사진 설명]을 넣어 사진이나 연관 그림으로 그려줘.\r\n8.가독성: 중요한 문장은 굵게 표시하고, 문단 사이 적절한 여백을 줘.",
-    "tags": [
-      "블로그",
-      "blog",
-      "블로그.MD",
-      "단기기억",
-      "전문"
-    ],
-    "ts": 1781451543187,
-    "category": "marketing",
-    "source": "me",
-    "verified": true
-  },
-  {
     "id": "n17814515431874396",
     "text": "[블로그·팀] CEO **지니**「블로그 만들어」→ Researcher→ Writer→ Editor(QA)→ Publisher(GitHub). Cursor/사람 수동 금지.",
     "tags": [
@@ -1988,7 +1973,330 @@
     "verified": true
   },
   {
-    "id": "n17814515431872026",
+    "id": "n17814523673585367",
+    "text": "[블로그·팀] CEO **지니**「블로그 만들어」→ Researcher→ Writer→ Editor(QA)→ Publisher(GitHub). Cursor/사람 수동 금지.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781452367359,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814523673586472",
+    "text": "[블로그·QA] 업로드 전 필수: 본문 1,500~3,000자·h2 소제목 2+·중복문장 0·[사진:] 포함·해요체. QA 미통과 시 GitHub 업로드 보류.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781452367360,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814528577219627",
+    "text": "[블로그·팀] CEO **지니**「블로그 만들어」→ Researcher→ Writer→ Editor(QA)→ Publisher(GitHub). Cursor/사람 수동 금지.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781452857721,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814528577217154",
+    "text": "[블로그·QA] 업로드 전 필수: 본문 1,500~3,000자·h2 소제목 2+·중복문장 0·[사진:] 포함·해요체. QA 미통과 시 GitHub 업로드 보류.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781452857722,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814549933074930",
+    "text": "[블로그·팀] CEO **지니**「블로그 만들어」→ Researcher→ Writer→ Editor(QA)→ Publisher(GitHub). Cursor/사람 수동 금지.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781454993308,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814549933073915",
+    "text": "[블로그·QA] 업로드 전 필수: 본문 1,500~3,000자·h2 소제목 2+·중복문장 0·[사진:] 포함·해요체. QA 미통과 시 GitHub 업로드 보류.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781454993309,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814551163215034",
+    "text": "[블로그·팀] CEO **지니**「블로그 만들어」→ Researcher→ Writer→ Editor(QA)→ Publisher(GitHub). Cursor/사람 수동 금지.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781455116322,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814551163211400",
+    "text": "[블로그·QA] 업로드 전 필수: 본문 1,500~3,000자·h2 소제목 2+·중복문장 0·[사진:] 포함·해요체. QA 미통과 시 GitHub 업로드 보류.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781455116323,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814551676088857",
+    "text": "[블로그·팀] CEO **지니**「블로그 만들어」→ Researcher→ Writer→ Editor(QA)→ Publisher(GitHub). Cursor/사람 수동 금지.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781455167609,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814551676083198",
+    "text": "[블로그·QA] 업로드 전 필수: 본문 1,500~3,000자·h2 소제목 2+·중복문장 0·[사진:] 포함·해요체. QA 미통과 시 GitHub 업로드 보류.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781455167610,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814553505138752",
+    "text": "[블로그·팀] CEO **지니**「블로그 만들어」→ Researcher→ Writer→ Editor(QA)→ Publisher(GitHub). Cursor/사람 수동 금지.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781455350514,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814553505137642",
+    "text": "[블로그·QA] 업로드 전 필수: 본문 1,500~3,000자·h2 소제목 2+·중복문장 0·[사진:] 포함·해요체. QA 미통과 시 GitHub 업로드 보류.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781455350515,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n1781455871339940",
+    "text": "[블로그·팀] CEO **지니**「블로그 만들어」→ Researcher→ Writer→ Editor(QA)→ Publisher(GitHub). Cursor/사람 수동 금지.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781455871340,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814558713397221",
+    "text": "[블로그·QA] 업로드 전 필수: 본문 1,500~3,000자·h2 소제목 2+·중복문장 0·[사진:] 포함·해요체. QA 미통과 시 GitHub 업로드 보류.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781455871341,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814558913594592",
+    "text": "[블로그·팀] CEO **지니**「블로그 만들어」→ Researcher→ Writer→ Editor(QA)→ Publisher(GitHub). Cursor/사람 수동 금지.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781455891359,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814558913596874",
+    "text": "[블로그·QA] 업로드 전 필수: 본문 1,500~3,000자·h2 소제목 2+·중복문장 0·[사진:] 포함·해요체. QA 미통과 시 GitHub 업로드 보류.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781455891360,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814559169916811",
+    "text": "[블로그·팀] CEO **지니**「블로그 만들어」→ Researcher→ Writer→ Editor(QA)→ Publisher(GitHub). Cursor/사람 수동 금지.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781455916992,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n1781455916991835",
+    "text": "[블로그·QA] 업로드 전 필수: 본문 1,500~3,000자·h2 소제목 2+·중복문장 0·[사진:] 포함·해요체. QA 미통과 시 GitHub 업로드 보류.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781455916993,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814559913259024",
+    "text": "[블로그·팀] CEO **지니**「블로그 만들어」→ Researcher→ Writer→ Editor(QA)→ Publisher(GitHub). Cursor/사람 수동 금지.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781455991326,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814559913256439",
+    "text": "[블로그·QA] 업로드 전 필수: 본문 1,500~3,000자·h2 소제목 2+·중복문장 0·[사진:] 포함·해요체. QA 미통과 시 GitHub 업로드 보류.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781455991327,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814562149333849",
+    "text": "[단기기억·블로그.MD 전문] (파일: D:\\JINIPRO\\BLOG\\블로그.MD)\n1.인터넷을 서치해서 인기있는 키워드를 찾고 그 키워드제목을 만들어서 블로그를 작성하고.\r\n2.분량: 공백 포함 1,500자 \\~ 3,000자 내외.\r\n3.작성 방식: 다른 글을 그대로 베끼지 말고, 독창적인 문장으로 새로 써줘.\r\n4.경험 가치: '나의 경험'이 담긴 듯한 말투와 예시를 포함해. 독자가 공감할 수 있는 친절한 어투(해요체)를 사용할 것.\r\n5.구조: 서론(공감 및 문제 제기) -> 본론(소제목을 활용한 정보 전달) -> 결론(핵심 요약 및 인사).\r\n6.주요 키워드는 \\[키워드 입력]이야. 제목과 본문에 자연스럽게 녹여줘.\r\n7.이미지: 글 중간에 \\[사진: \\~에 대한 사진 설명]을 넣어 사진이나 연관 그림으로 그려줘.\r\n8.가독성: 중요한 문장은 굵게 표시하고, 문단 사이 적절한 여백을 줘.",
+    "tags": [
+      "블로그",
+      "blog",
+      "블로그.MD",
+      "단기기억",
+      "전문"
+    ],
+    "ts": 1781456214933,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814562149332306",
+    "text": "[블로그·팀] CEO **지니**「블로그 만들어」→ Researcher→ Writer→ Editor(QA)→ Publisher(GitHub). Cursor/사람 수동 금지.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781456214934,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814562149331119",
+    "text": "[블로그·QA] 업로드 전 필수: 본문 1,500~3,000자·h2 소제목 2+·중복문장 0·[사진:] 포함·해요체. QA 미통과 시 GitHub 업로드 보류.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781456214935,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17814562149333470",
     "text": "[블로그 워크플로우] web_search 인기 키워드 → 블로그.MD 8규칙 → BLOG/날짜/ HTML write_file → QA 통과 → GitHub 업로드.",
     "tags": [
       "블로그",
@@ -1996,13 +2304,13 @@
       "워크플로우",
       "단기기억"
     ],
-    "ts": 1781451543190,
+    "ts": 1781456214936,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17814515431871941",
+    "id": "n17814562149331339",
     "text": "[단기기억·블로그 필수] 분량: HTML 제외 본문 순수 텍스트 공백 포함 1,500자 이상 3,000자 이하. 미만·초과 금지.",
     "tags": [
       "블로그",
@@ -2010,13 +2318,13 @@
       "워크플로우",
       "단기기억"
     ],
-    "ts": 1781451543191,
+    "ts": 1781456214937,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781451543187360",
+    "id": "n17814562149336055",
     "text": "[블로그.MD 규칙 1] 인터넷을 서치해서 인기있는 키워드를 찾고 그 키워드제목을 만들어서 블로그를 작성하고.",
     "tags": [
       "블로그",
@@ -2025,13 +2333,13 @@
       "규칙",
       "단기기억"
     ],
-    "ts": 1781451543197,
+    "ts": 1781456214943,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17814515431878142",
+    "id": "n17814562149334244",
     "text": "[블로그.MD 규칙 2] 【필수】분량: HTML 태그 제외 본문 순수 텍스트, 공백 포함 1,500자 이상 3,000자 이하. 미만이면 보강·초과면 줄인 뒤 write_file. 저장 전 글자 수 확인.",
     "tags": [
       "블로그",
@@ -2040,13 +2348,13 @@
       "규칙",
       "단기기억"
     ],
-    "ts": 1781451543198,
+    "ts": 1781456214944,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17814515431874165",
+    "id": "n17814562149334579",
     "text": "[블로그.MD 규칙 3] 작성 방식: 다른 글을 그대로 베끼지 말고, 독창적인 문장으로 새로 써줘.",
     "tags": [
       "블로그",
@@ -2055,13 +2363,13 @@
       "규칙",
       "단기기억"
     ],
-    "ts": 1781451543199,
+    "ts": 1781456214945,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17814515431878488",
+    "id": "n17814562149332692",
     "text": "[블로그.MD 규칙 4] 경험 가치: '나의 경험'이 담긴 듯한 말투와 예시를 포함해. 독자가 공감할 수 있는 친절한 어투(해요체)를 사용할 것.",
     "tags": [
       "블로그",
@@ -2070,13 +2378,13 @@
       "규칙",
       "단기기억"
     ],
-    "ts": 1781451543200,
+    "ts": 1781456214946,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17814515431876147",
+    "id": "n17814562149334944",
     "text": "[블로그.MD 규칙 5] 구조: 서론(공감 및 문제 제기) -> 본론(소제목을 활용한 정보 전달) -> 결론(핵심 요약 및 인사).",
     "tags": [
       "블로그",
@@ -2085,13 +2393,13 @@
       "규칙",
       "단기기억"
     ],
-    "ts": 1781451543201,
+    "ts": 1781456214947,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17814515431875060",
+    "id": "n17814562149336366",
     "text": "[블로그.MD 규칙 6] 주요 키워드는 \\[키워드 입력]이야. 제목과 본문에 자연스럽게 녹여줘.",
     "tags": [
       "블로그",
@@ -2100,13 +2408,13 @@
       "규칙",
       "단기기억"
     ],
-    "ts": 1781451543202,
+    "ts": 1781456214948,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17814515431877856",
+    "id": "n17814562149333876",
     "text": "[블로그.MD 규칙 7] 이미지: 글 중간에 \\[사진: \\~에 대한 사진 설명]을 넣어 사진이나 연관 그림으로 그려줘.",
     "tags": [
       "블로그",
@@ -2115,13 +2423,13 @@
       "규칙",
       "단기기억"
     ],
-    "ts": 1781451543203,
+    "ts": 1781456214949,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17814515431877489",
+    "id": "n17814562149336472",
     "text": "[블로그.MD 규칙 8] 가독성: 중요한 문장은 굵게 표시하고, 문단 사이 적절한 여백을 줘.",
     "tags": [
       "블로그",
@@ -2130,325 +2438,325 @@
       "규칙",
       "단기기억"
     ],
-    "ts": 1781451543204,
+    "ts": 1781456214950,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n178145154326788610",
-    "text": "[유튜브·규칙요약] youtube.MD\n# 유튜브·쇼츠·롱폼 규칙\n\n## 경로 (필수 — 틀리면 작업 무효)\n\n| 항목 | 경로 |\n|------|------|\n| **루트** | `D:\\JINI-PRO` (하이픈 `-` 필수) |\n| **영상 출력** | `D:\\JINI-PRO\\VIDEO\\YYYY-MM-DD\\` |",
+    "id": "n178145621501889680",
+    "text": "[유튜브·규칙요약] youtube.MD\n# 유튜브·쇼츠·롱폼 규칙\n\n## 경로 (필수 — 틀리면 작업 무효)\n\n| 항목 | 경로 |\n|------|------|\n| **루트** | `D:\\JINIPRO` (하이픈 `-` 필수) |\n| **영상 출력** | `D:\\JINIPRO\\VIDEO\\YYYY-MM-DD\\` |",
     "tags": [
       "유튜브",
       "youtube.MD",
       "단기기억"
     ],
-    "ts": 1781451543267,
+    "ts": 1781456215017,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17814515432671340",
-    "text": "[유튜브·플레이북] youtube-playbook.MD\n# Connect AI · 유튜브 제작 플레이북 (단기기억용)\r\n\r\n> Cursor/사람 수동 X — Connect AI가 tools + IPC로 **전부 자동** 실행.\r\n\r\n## 채팅 명령 → 동작\r\n\r\n| 명령 | 동작 |\r\n|------|------|\r\n| **유튜브 만들어** | 롱폼 1편: 대본(JSON) → 제작 → 업로드 → **확인** |\r\n| **쇼츠 만들어** | 웃김 쇼츠 1편 |\r\n| **업로드해** | 오늘 VIDEO 폴더 mp4 업로드 + 확인 |\r\n| **유튜브 확인해** / **동영상 확인해** | YouTube API + 로컬 mp4 점검 |\r\n| **인증했어** | 휴대폰 인증 반영 → 긴 영상 재업로드 |\r\n\r\n## 팀 역할 (Connect AI 내부)\r\n\r\n1. **Writer** — `write_file`로 `VIDEO/YYYY-MM-DD/long-01.json` (또는 shorts-01.json)만 작성. `run_command` 금지.\r\n2. **Media** — 장면마다 `imagePrompt`·`stockQuery`(영어, 대사 연관). **HF FLUX 애니풍 삽화** → ffmpeg 줌·팬 = **애니메이션 동영상**. narration **같은 문장 반복 절대 금지**.\r\n3. **TTS** — Supertonic **02번 F1만** (speed 0.84, steps 8). 다화자 금지.\r\n4. **Render** — ffmpeg, 롱폼 **1920×1080 가로 16:9**, 장면=삽화+줌·팬.\r\n5. **Upload** — YouTube OAuth, 인증 채널은 15분+ 가능.\r\n6. **QA** — 업로드 후 `checkYoutubeVideo`: 길이·처리상태·음성·비율.\r\n\r\n## 대본 JSON 필드 (롱폼)\r\n\r\n```json\r\n{\r\n  \"type\": \"long\",\r\n  \"genre\": \"legend_homeland_mystery\",\r\n  \"title\": \"전설의 고향 | {괴담 제목}\",\r\n  \"filename\": \"long-legend-xxx\",\r\n  \"scenes\": [{\r\n    \"speaker\": \"narrator|elder|ghost|…\",\r\n    \"narration\": \"읽을 내용 (반복 금지)\",\r\n    \"subtitle\": \"짧은 자막\",\r\n    \"imagePrompt\": \"old bus foggy night horror anime illustration\",\r\n    \"stockQuery\": \"old bus fog night\"\r\n  }]\r\n}\r\n```\r\n\r\n## 제작 파이프라인 (tools)\r\n\r\n```\r\nWriter → Editor QA (youtube-script-qa.js)\r\nyoutube-job.js\r\n  → enrichScenes + dedupeNarration (반복 제거)\r\n  → Supertonic TTS (youtube-tts.js)\r\n  → 장면 삽화: **HF FLUX.1-schnell(애니풍)** → Pollinations → fallback slide (free-media.js, scene-visual.js)\r\n  → ffmpeg 합치기 (youtube-render.js) 16:9 롱폼 — **삽화+줌·팬=애니메이션 동영상**\r\n  → YouTube 업로드 (youtube-upload.js)\r\n  → verifyAndFix + checkYoutubeVideo (youtube-verify.js)\r\n```\r\n\r\n**도구 경로:** `D:\\JINI-PRO\\tools\\`  \r\n**출력:** `D:\\JINI-PRO\\VIDEO\\YYYY-MM-DD\\`  \r\n**Connect AI IPC:** `connect.youtubeProduce`, `youtubeCheckVideo`, `youtubeVerifiedRetry`\r\n\r\n## 필수 규칙\r\n\r\n- **비용 0원** — Veo·유료 영상 API 금지. HF Inference **무료 티어**(config HF_TOKEN) OK.\r\n- **narration 반복 금지** — 분량은 새 내용으로. 제작 시 `dedupeNarration` 자동 적용.\r\n- **롱폼 길이** — **이야기·TTS 길이 = 영상 길이**. 장면·분량 줄이기·합치기 **금지**. QA도 상한 없음.\r\n- **롱폼 가로 16:9** — `type:long`, `isShort` 사용 금지.\r\n- **15분 제한** — 미인증 채널. 인증: https://www.youtube.com/verify → 「인증했어」\r\n- **제목** — `전설의 고향 | {괴담}`\r\n\r\n## Supertonic (TTS)\r\n\r\n제작 전: `node D:\\JINI-PRO\\tools\\setup-supertonic-tts.js`  \r\n포트: http://127.0.0.1:7788\r\n\r\n## 알려진 이슈·대응\r\n\r\n| 문제 | Connect AI 대응 |\r\n|------|-----------------|\r\n| 같은 글 반복 | dedupeNarration + 대본 규칙 |\r\n| 15분 업로드 실패 | verify → 「인증했어」→ 재업로드 |\r\n| 세로 영상 | isShort=false, 1920×1080 렌더 |\r\n| AI 삽화 실패 | HF router API 재시도(config HF_TOKEN). local-slide만 나오면 **애니 미적용** — 재제작 |\r\n| 업로드 후 확인 | checkYoutubeVideo 자동 |\r\n\r\n## Connect AI가 하지 말 것\r\n\r\n- Clipchamp 수동 편집 (기본 경로)\r\n- Cursor에서 youtube-job 직접 실행 (사용자 요청 시만)\r\n- narration 같은 문장 2회 이상 복붙",
+    "id": "n178145621501818960",
+    "text": "[유튜브·플레이북] youtube-playbook.MD\n# Connect AI · 유튜브 제작 플레이북 (단기기억용)\r\n\r\n> Cursor/사람 수동 X — Connect AI가 tools + IPC로 **전부 자동** 실행.\r\n\r\n## 채팅 명령 → 동작\r\n\r\n| 명령 | 동작 |\r\n|------|------|\r\n| **유튜브 만들어** | 롱폼 1편: 대본(JSON) → 제작 → 업로드 → **확인** |\r\n| **쇼츠 만들어** | 웃김 쇼츠 1편 |\r\n| **업로드해** | 오늘 VIDEO 폴더 mp4 업로드 + 확인 |\r\n| **유튜브 확인해** / **동영상 확인해** | YouTube API + 로컬 mp4 점검 |\r\n| **인증했어** | 휴대폰 인증 반영 → 긴 영상 재업로드 |\r\n\r\n## 팀 역할 (Connect AI 내부)\r\n\r\n1. **Writer** — `write_file`로 `VIDEO/YYYY-MM-DD/long-01.json` (또는 shorts-01.json)만 작성. `run_command` 금지.\r\n2. **Media** — 장면마다 `imagePrompt`·`stockQuery`(영어, 대사 연관). **HF FLUX 애니풍 삽화** → ffmpeg 줌·팬 = **애니메이션 동영상**. narration **같은 문장 반복 절대 금지**.\r\n3. **TTS** — Supertonic **02번 F1만** (speed 0.84, steps 8). 다화자 금지.\r\n4. **Render** — ffmpeg, 롱폼 **1920×1080 가로 16:9**, 장면=삽화+줌·팬.\r\n5. **Upload** — YouTube OAuth, 인증 채널은 15분+ 가능.\r\n6. **QA** — 업로드 후 `checkYoutubeVideo`: 길이·처리상태·음성·비율.\r\n\r\n## 대본 JSON 필드 (롱폼)\r\n\r\n```json\r\n{\r\n  \"type\": \"long\",\r\n  \"genre\": \"legend_homeland_mystery\",\r\n  \"title\": \"전설의 고향 | {괴담 제목}\",\r\n  \"filename\": \"long-legend-xxx\",\r\n  \"scenes\": [{\r\n    \"speaker\": \"narrator|elder|ghost|…\",\r\n    \"narration\": \"읽을 내용 (반복 금지)\",\r\n    \"subtitle\": \"짧은 자막\",\r\n    \"imagePrompt\": \"old bus foggy night horror anime illustration\",\r\n    \"stockQuery\": \"old bus fog night\"\r\n  }]\r\n}\r\n```\r\n\r\n## 제작 파이프라인 (tools)\r\n\r\n```\r\nWriter → Editor QA (youtube-script-qa.js)\r\nyoutube-job.js\r\n  → enrichScenes + dedupeNarration (반복 제거)\r\n  → Supertonic TTS (youtube-tts.js)\r\n  → 장면 삽화: **HF FLUX.1-schnell(애니풍)** → Pollinations → fallback slide (free-media.js, scene-visual.js)\r\n  → ffmpeg 합치기 (youtube-render.js) 16:9 롱폼 — **삽화+줌·팬=애니메이션 동영상**\r\n  → YouTube 업로드 (youtube-upload.js)\r\n  → verifyAndFix + checkYoutubeVideo (youtube-verify.js)\r\n```\r\n\r\n**도구 경로:** `D:\\JINIPRO\\tools\\`  \r\n**출력:** `D:\\JINIPRO\\VIDEO\\YYYY-MM-DD\\`  \r\n**Connect AI IPC:** `connect.youtubeProduce`, `youtubeCheckVideo`, `youtubeVerifiedRetry`\r\n\r\n## 필수 규칙\r\n\r\n- **비용 0원** — Veo·유료 영상 API 금지. HF Inference **무료 티어**(config HF_TOKEN) OK.\r\n- **narration 반복 금지** — 분량은 새 내용으로. 제작 시 `dedupeNarration` 자동 적용.\r\n- **롱폼 길이** — **이야기·TTS 길이 = 영상 길이**. 장면·분량 줄이기·합치기 **금지**. QA도 상한 없음.\r\n- **롱폼 가로 16:9** — `type:long`, `isShort` 사용 금지.\r\n- **15분 제한** — 미인증 채널. 인증: https://www.youtube.com/verify → 「인증했어」\r\n- **제목** — `전설의 고향 | {괴담}`\r\n\r\n## Supertonic (TTS)\r\n\r\n제작 전: `node D:\\JINIPRO\\tools\\setup-supertonic-tts.js`  \r\n포트: http://127.0.0.1:7788\r\n\r\n## 알려진 이슈·대응\r\n\r\n| 문제 | Connect AI 대응 |\r\n|------|-----------------|\r\n| 같은 글 반복 | dedupeNarration + 대본 규칙 |\r\n| 15분 업로드 실패 | verify → 「인증했어」→ 재업로드 |\r\n| 세로 영상 | isShort=false, 1920×1080 렌더 |\r\n| AI 삽화 실패 | HF router API 재시도(config HF_TOKEN). local-slide만 나오면 **애니 미적용** — 재제작 |\r\n| 업로드 후 확인 | checkYoutubeVideo 자동 |\r\n\r\n## Connect AI가 하지 말 것\r\n\r\n- Clipchamp 수동 편집 (기본 경로)\r\n- Cursor에서 youtube-job 직접 실행 (사용자 요청 시만)\r\n- narration 같은 문장 2회 이상 복붙",
     "tags": [
       "유튜브",
       "playbook",
       "단기기억"
     ],
-    "ts": 1781451543267,
+    "ts": 1781456215017,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781451543267841620",
+    "id": "n1781456215018296320",
     "text": "[유튜브·핵심] CEO **지니**「유튜브 만들어」한 마디 → Writer→Editor QA→Media→TTS→Render→Upload→QA. Cursor/사람 수동 금지.",
     "tags": [
       "유튜브",
       "워크플로우",
       "ConnectAI"
     ],
-    "ts": 1781451543287,
+    "ts": 1781456215037,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781451543267188721",
+    "id": "n1781456215018827421",
     "text": "[유튜브·명령] 「유튜브 만들어」=롱폼 제작·업로드·확인 | 「쇼츠 만들어」=웃김 | 「업로드해」=mp4업로드 | 「유튜브 확인해」=점검 | 「인증했어」=15분+재업로드",
     "tags": [
       "유튜브",
       "워크플로우",
       "ConnectAI"
     ],
-    "ts": 1781451543288,
+    "ts": 1781456215038,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n178145154326718522",
+    "id": "n1781456215018412122",
     "text": "[유튜브·팀] Writer→Editor QA→Media(**HF 애니 삽화**+ffmpeg 줌·팬=**애니메이션 동영상**)→TTS(Supertonic)→Render→Upload(YouTube)→QA(checkYoutubeVideo). IPC: connect.youtubeProduce.",
     "tags": [
       "유튜브",
       "워크플로우",
       "ConnectAI"
     ],
-    "ts": 1781451543289,
+    "ts": 1781456215039,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781451543267838423",
+    "id": "n1781456215018541923",
     "text": "[유튜브·롱폼] genre:legend_homeland_mystery. **영상 길이=이야기·TTS 길이**. 줄이기·합치기 금지. HF **2컷/장**. 1920×1080.",
     "tags": [
       "유튜브",
       "워크플로우",
       "ConnectAI"
     ],
-    "ts": 1781451543290,
+    "ts": 1781456215040,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781451543267619024",
+    "id": "n1781456215018362524",
     "text": "[유튜브·길이] 롱폼 QA·Writer 모두 **분량 상한 없음**. 동영상은 나레이션 끝까지. 제작 1시간+ OK.",
     "tags": [
       "유튜브",
       "워크플로우",
       "ConnectAI"
     ],
-    "ts": 1781451543291,
+    "ts": 1781456215041,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n178145154326770725",
+    "id": "n1781456215018348325",
     "text": "[유튜브·서사] 3막·시간순·장면당 사건1개. **분위기템플릿 0회**(안개·개·바람·11:11·시선·흙냄새 금지). 이름 일관. **한 줄 줄거리**가 들려야 함.",
     "tags": [
       "유튜브",
       "워크플로우",
       "ConnectAI"
     ],
-    "ts": 1781451543292,
+    "ts": 1781456215042,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781451543267421226",
+    "id": "n1781456215018343226",
     "text": "[유튜브·대본금지] narration 같은 문장 반복 금지. tools: dedupeNarration+stripMoodFillers.",
     "tags": [
       "유튜브",
       "워크플로우",
       "ConnectAI"
     ],
-    "ts": 1781451543293,
+    "ts": 1781456215043,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781451543267814527",
+    "id": "n1781456215018630227",
     "text": "[유튜브·시각] 롱폼=장면당 **HF 2컷**(와이드·클로즈업)+ffmpeg 크로스페이드·줌. 쇼츠=1컷.",
     "tags": [
       "유튜브",
       "워크플로우",
       "ConnectAI"
     ],
-    "ts": 1781451543294,
+    "ts": 1781456215044,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781451543267585828",
+    "id": "n1781456215018291628",
     "text": "[유튜브·Editor] Writer 후 **youtube-script-qa.js** 검수(분위기템플릿0·중복금지·제목·이름). **장면 줄이기 금지**. 미통과→Editor 수정→Media.",
     "tags": [
       "유튜브",
       "워크플로우",
       "ConnectAI"
     ],
-    "ts": 1781451543295,
+    "ts": 1781456215045,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781451543267607629",
+    "id": "n1781456215018715029",
     "text": "[유튜브·TTS] Supertonic 7788. **02번 F1 단일** speed 0.84 steps 8. **다화자 TTS 금지** — 전 장면 narrator/F1.",
     "tags": [
       "유튜브",
       "워크플로우",
       "ConnectAI"
     ],
-    "ts": 1781451543296,
+    "ts": 1781456215046,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781451543267122330",
-    "text": "[유튜브·경로] 루트 **D:\\\\JINI-PRO** (하이픈 필수). 금지: JINIPRO, JINI PRO, JINI-PROJECT. write_file → D:\\\\JINI-PRO\\\\VIDEO\\\\YYYY-MM-DD\\\\long-red-umbrella.json 정확히.",
+    "id": "n1781456215018681230",
+    "text": "[유튜브·경로] 루트 **D:\\\\JINIPRO** (하이픈 필수). 금지: JINIPRO, JINI PRO, JINI-PROJECT. write_file → D:\\\\JINIPRO\\\\VIDEO\\\\YYYY-MM-DD\\\\long-red-umbrella.json 정확히.",
     "tags": [
       "유튜브",
       "워크플로우",
       "ConnectAI"
     ],
-    "ts": 1781451543297,
+    "ts": 1781456215047,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n178145154326713531",
-    "text": "[유튜브·도구] D:\\JINI-PRO\\tools\\youtube-job.js (오케스트레이터). 출력 D:\\JINI-PRO\\VIDEO\\YYYY-MM-DD\\. meta.json에 upload·lastCheck 저장.",
+    "id": "n1781456215018536831",
+    "text": "[유튜브·도구] D:\\JINIPRO\\tools\\youtube-job.js (오케스트레이터). 출력 D:\\JINIPRO\\VIDEO\\YYYY-MM-DD\\. meta.json에 upload·lastCheck 저장.",
     "tags": [
       "유튜브",
       "워크플로우",
       "ConnectAI"
     ],
-    "ts": 1781451543298,
+    "ts": 1781456215048,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781451543267406832",
+    "id": "n1781456215018827732",
     "text": "[유튜브·인증] 미인증=15분 제한. youtube.com/verify 후 config youtubePhoneVerified=true. 「인증했어」→ verified-retry.",
     "tags": [
       "유튜브",
       "워크플로우",
       "ConnectAI"
     ],
-    "ts": 1781451543299,
+    "ts": 1781456215049,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781451543267319333",
+    "id": "n1781456215018358833",
     "text": "[유튜브·확인] checkYoutubeVideo: 로컬 mp4(길이·16:9·음성)+YouTube API(처리상태·제목·조회수). 문제 시 fixActions.",
     "tags": [
       "유튜브",
       "워크플로우",
       "ConnectAI"
     ],
-    "ts": 1781451543300,
+    "ts": 1781456215050,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781451543267958434",
+    "id": "n1781456215018514834",
     "text": "[유튜브·비용] 0원. Veo·유료영상API 금지. HF Inference 무료티어(config HF_TOKEN) OK.",
     "tags": [
       "유튜브",
       "워크플로우",
       "ConnectAI"
     ],
-    "ts": 1781451543301,
+    "ts": 1781456215051,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781451543267220935",
+    "id": "n178145621501871035",
     "text": "[유튜브·쇼츠] genre:comedy. 30~45초. 9:16. 웃김·반전. #Shorts.",
     "tags": [
       "유튜브",
       "워크플로우",
       "ConnectAI"
     ],
-    "ts": 1781451543302,
+    "ts": 1781456215052,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781451543343",
+    "id": "n1781456215105",
     "text": "[CEO·규칙전문]\n# 1인기업 CEO 운영 규칙\r\n\r\n## 원칙\r\n\r\n- **사장님(사용자)** → **지니(CEO)** 에게만 지시한다.\r\n- **CEO**가 팀원에게 업무를 **자동 배분·순서 조율·검수·배포**한다.\r\n- 사장님이 Writer/Editor/Media 등 팀원에게 **직접 시키지 않는다**.\r\n- Cursor·외부 AI·사람이 **수동으로 글/영상 작성·업로드하지 않는다**.\r\n\r\n## CEO 한 마디 명령\r\n\r\n| 사장님 지시 | CEO가 자동 수행 |\r\n|------------|----------------|\r\n| **블로그 만들어** | Researcher→Writer→Editor QA→GitHub |\r\n| **유튜브 만들어** | Writer→Editor QA→**Media(애니 삽화)**→TTS→Render(동영상)→YouTube→QA |\r\n| **운영시작** | 지니팀 **자동 운영** — **블로그 2편**+유튜브 롱폼 1편 · 첫 실행 즉시 · **이후 매일 21:00** |\r\n| **쇼츠 만들어** | Writer(웃김)→QA→제작·업로드 |\r\n| **업로드해** | Publisher만 |\r\n| **확인해** | QA팀 점검 |\r\n\r\n## 팀 역할\r\n\r\n1. **Researcher** — web_search, 키워드·트렌드\r\n2. **Writer** — 대본·HTML write_file\r\n3. **Editor/QA** — tools QA 통과 전까지 수정 지시 (CEO가 자동)\r\n4. **Media** — 장면마다 **HF 2컷 삽화**(와이드·클로즈업) → ffmpeg 연결. **영상 길이=이야기·TTS 길이**(줄이지 않음)\r\n5. **TTS/Render** — Supertonic·ffmpeg (tools)\r\n6. **Publisher** — GitHub·YouTube 업로드\r\n7. **QA(최종)** — checkYoutubeVideo·blog-post-qa\r\n\r\n## CEO 응답\r\n\r\n- 사장님께는 **진행·완료·URL·문제**만 간단히 보고.\r\n- **유튜브 제작 시**: 「이야기 길이만큼 영상」— 장면·나레이션 **줄이지 않음**. 애니풍 **2컷**+나레이션+연결. (단색 슬라이드만 나오면 Media/HF 점검)\r\n- 팀 내부 프롬프트·기술 디테일은 CEO가 알아서 처리.",
     "tags": [
       "CEO",
       "1인기업",
       "단기기억"
     ],
-    "ts": 1781451543343,
+    "ts": 1781456215105,
     "category": "business",
     "source": "ceo.MD",
     "verified": true
   },
   {
-    "id": "n1781451543344",
+    "id": "n1781456215106",
     "text": "[지니·이름] Connect AI 앱 = **지니**. 1인기업 CEO·AI 비서. 사장님에게 자칭 '지니'. agentName=지니. (프로그램 파일 Connect AI.exe는 그대로)",
     "tags": [
       "CEO",
       "1인기업",
       "단기기억"
     ],
-    "ts": 1781451543344,
+    "ts": 1781456215106,
     "category": "business",
     "source": "ceo",
     "verified": true
   },
   {
-    "id": "n1781451543345",
+    "id": "n1781456215107",
     "text": "[CEO·1인기업] 사장님→**지니**(CEO)만 지시. 지니가 Researcher/Writer/Editor/QA/Media/TTS/Render/Publisher 자동 배분·완료까지 orchestrate. 팀원에게 직접 시키지 않음.",
     "tags": [
       "CEO",
       "1인기업",
       "단기기억"
     ],
-    "ts": 1781451543345,
+    "ts": 1781456215107,
     "category": "business",
     "source": "ceo",
     "verified": true
   },
   {
-    "id": "n1781451543346",
+    "id": "n1781456215108",
     "text": "[CEO·명령] 「블로그 만들어」=블로그팀 전체 | 「유튜브 만들어」=유튜브팀 전체 | 「쇼츠 만들어」=쇼츠 | 「확인해」=QA. 한 마디면 지니가 끝까지.",
     "tags": [
       "CEO",
       "1인기업",
       "단기기억"
     ],
-    "ts": 1781451543346,
+    "ts": 1781456215108,
     "category": "business",
     "source": "ceo",
     "verified": true
   },
   {
-    "id": "n1781451543347",
+    "id": "n1781456215109",
     "text": "[CEO·유튜브·애니] 롱폼=**애니메이션 동영상** 가능. Writer→Editor QA→Media(**HF FLUX 애니풍** 장면삽화)→Supertonic TTS→ffmpeg(줌·팬·자막)→YouTube. 장면마다 그림+움직임. local-slide만 나오면 HF_TOKEN·router API 점검 후 재제작.",
     "tags": [
       "CEO",
       "1인기업",
       "단기기억"
     ],
-    "ts": 1781451543347,
+    "ts": 1781456215109,
     "category": "business",
     "source": "ceo",
     "verified": true
   },
   {
-    "id": "n1781451543348",
+    "id": "n1781456215110",
     "text": "[CEO·금지] Cursor·사람 수동 write_file/업로드/편집 기본 금지. QA 미통과 시 Publisher(업로드) 보류.",
     "tags": [
       "CEO",
       "1인기업",
       "단기기억"
     ],
-    "ts": 1781451543348,
+    "ts": 1781456215110,
     "category": "business",
     "source": "ceo",
     "verified": true
   },
   {
-    "id": "n1781451543423",
+    "id": "n1781456215191",
     "text": "[책·논문·ChatDev] Qian et al., ACL 2024. \"ChatDev: Communicative Agents for Software Development\". arXiv:2307.07924\n핵심: 단일 AI보다 **역할 분담 + 에이전트 간 대화**가 품질↑. 복잡 과제를 작은 subtask로 쪼개고, 에이전트가 자연어·코드로 협업·반복 개선.\n실험: SoftwareDev 벤치에서 Quality 0.14(단일)→0.40(팀). Completeness·Executability도 팀이 우수.\nConnect AI 적용: CEO→Writer/Editor/Media/QA **팀 워크플로**. 한 에이전트가 전부 X.",
     "tags": [
       "논문",
@@ -2458,13 +2766,13 @@
       "CEO",
       "단기기억"
     ],
-    "ts": 1781451543423,
+    "ts": 1781456215191,
     "category": "research",
     "source": "chatdev",
     "verified": true
   },
   {
-    "id": "n1781451543424",
+    "id": "n1781456215192",
     "text": "[책·논문·MetaGPT] Hong et al., ICLR 2024. \"MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework\". arXiv:2308.00352\n핵심: **SOP(표준 업무 절차)** 를 프롬프트·역할에 인코딩. PM·Architect·Engineer·QA처럼 **전문 역할** 에이전트가 순서대로 협업.\n실험: HumanEval Pass@1 85.9%. 단일 GPT-4 대비 복잡 SW 과제 완료율·실행 가능성·인간 수정 비용 모두 개선.\nConnect AI 적용: Researcher→Writer→Editor→Publisher **SOP 고정**. 역할마다 다른 규칙·도구.",
     "tags": [
       "논문",
@@ -2475,13 +2783,13 @@
       "CEO",
       "단기기억"
     ],
-    "ts": 1781451543424,
+    "ts": 1781456215192,
     "category": "research",
     "source": "metagpt",
     "verified": true
   },
   {
-    "id": "n1781451543425",
+    "id": "n1781456215193",
     "text": "[CEO·논문근거] 멀티에이전트 팀 논문 공통 결론: (1) 복잡 작업은 **분해** (2) **역할 전문화** (3) **에이전트 간 검토·피드백** (4) 단일 프롬프트 1회 < 팀 파이프라인.\nConnect AI 1인기업: 사장님→CEO 1지시 → 유튜브/블로그 팀 자동. QA(Editor) 없이 Publisher(업로드) 금지.",
     "tags": [
       "논문",
@@ -2491,7 +2799,7 @@
       "품질",
       "단기기억"
     ],
-    "ts": 1781451543425,
+    "ts": 1781456215193,
     "category": "research",
     "source": "team-principle",
     "verified": true
