@@ -749,7 +749,7 @@
     "verified": true
   },
   {
-    "id": "n17813610110771031",
+    "id": "n17813957294958357",
     "text": "[단기기억·블로그.MD 전문] (파일: D:\\JINI-PRO\\BLOG\\블로그.MD)\n1.인터넷을 서치해서 인기있는 키워드를 찾고 그 키워드제목을 만들어서 블로그를 작성하고.\r\n2.분량: 공백 포함 1,500자 \\~ 3,000자 내외.\r\n3.작성 방식: 다른 글을 그대로 베끼지 말고, 독창적인 문장으로 새로 써줘.\r\n4.경험 가치: '나의 경험'이 담긴 듯한 말투와 예시를 포함해. 독자가 공감할 수 있는 친절한 어투(해요체)를 사용할 것.\r\n5.구조: 서론(공감 및 문제 제기) -> 본론(소제목을 활용한 정보 전달) -> 결론(핵심 요약 및 인사).\r\n6.주요 키워드는 \\[키워드 입력]이야. 제목과 본문에 자연스럽게 녹여줘.\r\n7.이미지: 글 중간에 \\[사진: \\~에 대한 사진 설명]을 넣어 사진이나 연관 그림으로 그려줘.\r\n8.가독성: 중요한 문장은 굵게 표시하고, 문단 사이 적절한 여백을 줘.",
     "tags": [
       "블로그",
@@ -758,27 +758,55 @@
       "단기기억",
       "전문"
     ],
-    "ts": 1781361011077,
+    "ts": 1781395729495,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17813610110776967",
-    "text": "[블로그 워크플로우] web_search 인기 키워드 → 블로그.MD 8규칙(1,500~3,000자 필수) → BLOG/날짜/ HTML write_file → GitHub 업로드.",
+    "id": "n17813957294951067",
+    "text": "[블로그·팀] CEO「블로그 만들어」→ Researcher(web_search 키워드)→ Writer(HTML write_file)→ Editor(QA tools blog-post-qa.js)→ Publisher(GitHub). Cursor/사람 수동 작성·업로드 금지.",
     "tags": [
       "블로그",
       "blog",
       "워크플로우",
       "단기기억"
     ],
-    "ts": 1781361011078,
+    "ts": 1781395729496,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17813610110778773",
+    "id": "n1781395729495655",
+    "text": "[블로그·QA] 업로드 전 필수: 본문 1,500~3,000자·h2 소제목 2+·중복문장 0·[사진:] 포함·해요체. QA 미통과 시 GitHub 업로드 보류.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781395729497,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813957294955407",
+    "text": "[블로그 워크플로우] web_search 인기 키워드 → 블로그.MD 8규칙 → BLOG/날짜/ HTML write_file → QA 통과 → GitHub 업로드.",
+    "tags": [
+      "블로그",
+      "blog",
+      "워크플로우",
+      "단기기억"
+    ],
+    "ts": 1781395729498,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17813957294956527",
     "text": "[단기기억·블로그 필수] 분량: HTML 제외 본문 순수 텍스트 공백 포함 1,500자 이상 3,000자 이하. 미만·초과 금지.",
     "tags": [
       "블로그",
@@ -786,13 +814,13 @@
       "워크플로우",
       "단기기억"
     ],
-    "ts": 1781361011079,
+    "ts": 1781395729499,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17813610110778814",
+    "id": "n17813957294959611",
     "text": "[블로그.MD 규칙 1] 인터넷을 서치해서 인기있는 키워드를 찾고 그 키워드제목을 만들어서 블로그를 작성하고.",
     "tags": [
       "블로그",
@@ -801,13 +829,13 @@
       "규칙",
       "단기기억"
     ],
-    "ts": 1781361011087,
+    "ts": 1781395729505,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17813610110771575",
+    "id": "n17813957294952541",
     "text": "[블로그.MD 규칙 2] 【필수】분량: HTML 태그 제외 본문 순수 텍스트, 공백 포함 1,500자 이상 3,000자 이하. 미만이면 보강·초과면 줄인 뒤 write_file. 저장 전 글자 수 확인.",
     "tags": [
       "블로그",
@@ -816,13 +844,13 @@
       "규칙",
       "단기기억"
     ],
-    "ts": 1781361011088,
+    "ts": 1781395729506,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17813610110774381",
+    "id": "n17813957294957552",
     "text": "[블로그.MD 규칙 3] 작성 방식: 다른 글을 그대로 베끼지 말고, 독창적인 문장으로 새로 써줘.",
     "tags": [
       "블로그",
@@ -831,13 +859,13 @@
       "규칙",
       "단기기억"
     ],
-    "ts": 1781361011089,
+    "ts": 1781395729507,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17813610110774267",
+    "id": "n17813957294952146",
     "text": "[블로그.MD 규칙 4] 경험 가치: '나의 경험'이 담긴 듯한 말투와 예시를 포함해. 독자가 공감할 수 있는 친절한 어투(해요체)를 사용할 것.",
     "tags": [
       "블로그",
@@ -846,13 +874,13 @@
       "규칙",
       "단기기억"
     ],
-    "ts": 1781361011090,
+    "ts": 1781395729508,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17813610110778100",
+    "id": "n17813957294957280",
     "text": "[블로그.MD 규칙 5] 구조: 서론(공감 및 문제 제기) -> 본론(소제목을 활용한 정보 전달) -> 결론(핵심 요약 및 인사).",
     "tags": [
       "블로그",
@@ -861,13 +889,13 @@
       "규칙",
       "단기기억"
     ],
-    "ts": 1781361011091,
+    "ts": 1781395729509,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17813610110774513",
+    "id": "n17813957294956899",
     "text": "[블로그.MD 규칙 6] 주요 키워드는 \\[키워드 입력]이야. 제목과 본문에 자연스럽게 녹여줘.",
     "tags": [
       "블로그",
@@ -876,13 +904,13 @@
       "규칙",
       "단기기억"
     ],
-    "ts": 1781361011092,
+    "ts": 1781395729510,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17813610110772769",
+    "id": "n17813957294955874",
     "text": "[블로그.MD 규칙 7] 이미지: 글 중간에 \\[사진: \\~에 대한 사진 설명]을 넣어 사진이나 연관 그림으로 그려줘.",
     "tags": [
       "블로그",
@@ -891,13 +919,13 @@
       "규칙",
       "단기기억"
     ],
-    "ts": 1781361011093,
+    "ts": 1781395729511,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17813610110771331",
+    "id": "n17813957294958071",
     "text": "[블로그.MD 규칙 8] 가독성: 중요한 문장은 굵게 표시하고, 문단 사이 적절한 여백을 줘.",
     "tags": [
       "블로그",
@@ -906,101 +934,288 @@
       "규칙",
       "단기기억"
     ],
-    "ts": 1781361011094,
+    "ts": 1781395729512,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n178136101113089660",
-    "text": "[단기기억·youtube.MD 전문] (파일: D:\\JINI-PRO\\RULES\\youtube.MD)\n# 유튜브·쇼츠·롱폼 규칙\n\n1. 첫 3초(훅): 질문·충격 통계·반전·Before-After 중 하나.\n2. 제목: 검색 키워드 + 호기심 (Hook Point·Contagious 참고).\n3. 썸네일: 얼굴/대비/짧은 텍스트 3~5자.\n4. 본문: 한 영상 한 메시지. CTA는 구독·다음 편 예고.\n5. 쇼츠: 30~60초, 자막 필수, 세로 9:16, #Shorts.\n6. 롱폼: 5~8분, 가로 16:9, 훅 클립+본문, 구독 CTA.\n7. 미디어: HF FLUX.1-schnell(장면 이미지), LTX-Video/Wan2.1(훅 클립), TTS+ffmpeg 합성.\n8. 콘텐츠: web_search 트렌드 — 사람들이 관심·공감·재미. 평범한 나열 금지.\n\n단기기억 [책:Hook Point], [책:Contagious], [보랏빛 소] 참고.",
+    "id": "n178139572953641170",
+    "text": "[유튜브·규칙요약] youtube.MD\n# 유튜브·쇼츠·롱폼 규칙\n\n## 채널 콘셉트 (고정)\n\n| 형식 | 콘셉트 | 톤 |\n|------|--------|-----|\n| **쇼츠** | **웃긴 영상** — 일상·직장·AI·세대 갈등 등에서 터지는 유머, 반전, 밈 감성 | 밝고 빠름, 마지막 3초 펀치라인 |\n| **롱폼** | **전설의 고향** 풍 미스터리·괴담 1편 완결 이야기 | 어둡고 잔잔한 긴장, 마지막 반전·여운 |",
     "tags": [
       "유튜브",
       "youtube.MD",
-      "전문"
+      "단기기억"
     ],
-    "ts": 1781361011130,
+    "ts": 1781395729536,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781361011130933410",
-    "text": "[유튜브·역할] 대본·기획은 **Connect AI 에이전트만**(web_search+write_file). 영상 합성·업로드는 앱 youtube:produce 자동. Cursor/외부/수동 JSON 금지.",
+    "id": "n178139572953640060",
+    "text": "[유튜브·플레이북] youtube-playbook.MD\n# Connect AI · 유튜브 제작 플레이북 (단기기억용)\n\n> Cursor/사람 수동 X — Connect AI가 tools + IPC로 **전부 자동** 실행.\n\n## 채팅 명령 → 동작\n\n| 명령 | 동작 |\n|------|------|\n| **유튜브 만들어** | 롱폼 1편: 대본(JSON) → 제작 → 업로드 → **확인** |\n| **쇼츠 만들어** | 웃김 쇼츠 1편 |\n| **업로드해** | 오늘 VIDEO 폴더 mp4 업로드 + 확인 |\n| **유튜브 확인해** / **동영상 확인해** | YouTube API + 로컬 mp4 점검 |\n| **인증했어** | 휴대폰 인증 반영 → 긴 영상 재업로드 |\n\n## 팀 역할 (Connect AI 내부)\n\n1. **Writer** — `write_file`로 `VIDEO/YYYY-MM-DD/long-01.json` (또는 shorts-01.json)만 작성. `run_command` 금지.\n2. **Media** — 장면마다 `imagePrompt`·`stockQuery`(영어, 대사 연관). narration **같은 문장 반복 절대 금지**.\n3. **TTS** — Supertonic(localhost:7788), `speaker`→다화자(F1/M1/M2…).\n4. **Render** — ffmpeg, 롱폼 **1920×1080 가로 16:9**, 장면=삽화+줌·팬.\n5. **Upload** — YouTube OAuth, 인증 채널은 15분+ 가능.\n6. **QA** — 업로드 후 `checkYoutubeVideo`: 길이·처리상태·음성·비율.\n\n## 대본 JSON 필드 (롱폼)\n\n```json\n{\n  \"type\": \"long\",\n  \"genre\": \"legend_homeland_mystery\",\n  \"title\": \"전설의 고향 | {괴담 제목}\",\n  \"filename\": \"long-legend-xxx\",\n  \"scenes\": [{\n    \"speaker\": \"narrator|elder|ghost|…\",\n    \"narration\": \"읽을 내용 (반복 금지)\",\n    \"subtitle\": \"짧은 자막\",\n    \"imagePrompt\": \"old bus foggy night horror anime\",\n    \"stockQuery\": \"old bus fog night\"\n  }]\n}\n```\n\n## 제작 파이프라인 (tools)\n\n```\nyoutube-job.js\n  → enrichScenes + dedupeNarration (반복 제거)\n  → Supertonic TTS (youtube-tts.js)\n  → 장면 삽화: HF → Pollinations → fallback slide (free-media.js, scene-visual.js)\n  → ffmpeg 합치기 (youtube-render.js) 16:9 롱폼\n  → YouTube 업로드 (youtube-upload.js)\n  → verifyAndFix + checkYoutubeVideo (youtube-verify.js)\n```\n\n**도구 경로:** `D:\\JINI-PRO\\tools\\`  \n**출력:** `D:\\JINI-PRO\\VIDEO\\YYYY-MM-DD\\`  \n**Connect AI IPC:** `connect.youtubeProduce`, `youtubeCheckVideo`, `youtubeVerifiedRetry`\n\n## 필수 규칙\n\n- **비용 0원** — Veo·유료 영상 API 금지. HF Inference **무료 티어**(config HF_TOKEN) OK.\n- **narration 반복 금지** — 분량은 새 내용으로. 제작 시 `dedupeNarration` 자동 적용.\n- **롱폼 가로 16:9** — `type:long`, `isShort` 사용 금지.\n- **15분 제한** — 미인증 채널. 인증: https://www.youtube.com/verify → 「인증했어」\n- **제목** — `전설의 고향 | {괴담}`\n\n## Supertonic (TTS)\n\n제작 전: `node D:\\JINI-PRO\\tools\\setup-supertonic-tts.js`  \n포트: http://127.0.0.1:7788\n\n## 알려진 이슈·대응\n\n| 문제 | Connect AI 대응 |\n|------|-----------------|\n| 같은 글 반복 | dedupeNarration + 대본 규칙 |\n| 15분 업로드 실패 | verify → 「인증했어」→ 재업로드 |\n| 세로 영상 | isShort=false, 1920×1080 렌더 |\n| AI 삽화 실패 | HF/Pollinations 재시도, fallback slide |\n| 업로드 후 확인 | checkYoutubeVideo 자동 |\n\n## Connect AI가 하지 말 것\n\n- Clipchamp 수동 편집 (기본 경로)\n- Cursor에서 youtube-job 직접 실행 (사용자 요청 시만)\n- narration 같은 문장 2회 이상 복붙",
+    "tags": [
+      "유튜브",
+      "playbook",
+      "단기기억"
+    ],
+    "ts": 1781395729536,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n1781395729536548620",
+    "text": "[유튜브·핵심] CEO「유튜브 만들어」한 마디 → Writer→Editor QA→Media→TTS→Render→Upload→QA. Cursor/사람 수동 금지.",
     "tags": [
       "유튜브",
       "워크플로우",
-      "HF"
+      "ConnectAI"
     ],
-    "ts": 1781361011140,
+    "ts": 1781395729556,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781361011130865811",
-    "text": "[유튜브·콘텐츠] 사람들이 관심·공감·재미 — 질문·반전·숫자·Before-After·실용 팁. 평범한 정보 나열 금지.",
+    "id": "n1781395729536539821",
+    "text": "[유튜브·명령] 「유튜브 만들어」=롱폼 제작·업로드·확인 | 「쇼츠 만들어」=웃김 | 「업로드해」=mp4업로드 | 「유튜브 확인해」=점검 | 「인증했어」=15분+재업로드",
     "tags": [
       "유튜브",
       "워크플로우",
-      "HF"
+      "ConnectAI"
     ],
-    "ts": 1781361011141,
+    "ts": 1781395729557,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781361011130384412",
-    "text": "[유튜브·무료 미디어] 이미지: Pollinations(실패 시 ffmpeg 로컬 슬라이드). TTS: Windows. 유료 HF/Replicate API 사용 금지.",
+    "id": "n1781395729536945922",
+    "text": "[유튜브·팀] Writer→Media(imagePrompt)→TTS(Supertonic)→Render(ffmpeg 16:9)→Upload(YouTube)→QA(checkYoutubeVideo). IPC: connect.youtubeProduce.",
     "tags": [
       "유튜브",
       "워크플로우",
-      "HF"
+      "ConnectAI"
     ],
-    "ts": 1781361011142,
+    "ts": 1781395729558,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781361011130854913",
-    "text": "[유튜브·쇼츠] 30~60초, 세로 9:16, 자막 필수, #Shorts. 채팅「쇼츠 만들어」→ 자동 파이프라인.",
+    "id": "n1781395729536650623",
+    "text": "[유튜브·롱폼] genre:legend_homeland_mystery. scenes **18~24**. 가로 1920×1080.",
     "tags": [
       "유튜브",
       "워크플로우",
-      "HF"
+      "ConnectAI"
     ],
-    "ts": 1781361011143,
+    "ts": 1781395729559,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n1781361011130133314",
-    "text": "[유튜브·롱폼] 5~8분, 가로 16:9, Ken Burns 훅+슬라이드.",
+    "id": "n1781395729536727424",
+    "text": "[유튜브·서사] 3막·시간순·장면당 사건1개. **분위기템플릿 0회**(안개·개·바람·11:11·시선·흙냄새 금지). 이름 일관. **한 줄 줄거리**가 들려야 함.",
     "tags": [
       "유튜브",
       "워크플로우",
-      "HF"
+      "ConnectAI"
     ],
-    "ts": 1781361011144,
+    "ts": 1781395729560,
     "category": "marketing",
     "source": "me",
     "verified": true
   },
   {
-    "id": "n17813614742122034",
-    "text": "[유튜브 업로드 2026-06-13] 1편 완료",
+    "id": "n1781395729536270325",
+    "text": "[유튜브·대본금지] narration 같은 문장 반복 금지. tools: dedupeNarration+stripMoodFillers.",
     "tags": [
       "유튜브",
+      "워크플로우",
+      "ConnectAI"
+    ],
+    "ts": 1781395729561,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n1781395729536665226",
+    "text": "[유튜브·시각] 장면마다 imagePrompt(영어, 대사 연관). HF/Pollinations 애니풍 삽화 → ffmpeg 줌·팬. 실패 시 slide fallback.",
+    "tags": [
+      "유튜브",
+      "워크플로우",
+      "ConnectAI"
+    ],
+    "ts": 1781395729562,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n1781395729536379927",
+    "text": "[유튜브·TTS] Supertonic http://127.0.0.1:7788. setup: D:\\JINI-PRO\\tools\\setup-supertonic-tts.js. speaker→F1/M1/M2…",
+    "tags": [
+      "유튜브",
+      "워크플로우",
+      "ConnectAI"
+    ],
+    "ts": 1781395729563,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n1781395729536723728",
+    "text": "[유튜브·도구] D:\\JINI-PRO\\tools\\youtube-job.js (오케스트레이터). 출력 D:\\JINI-PRO\\VIDEO\\YYYY-MM-DD\\. meta.json에 upload·lastCheck 저장.",
+    "tags": [
+      "유튜브",
+      "워크플로우",
+      "ConnectAI"
+    ],
+    "ts": 1781395729564,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n1781395729536770029",
+    "text": "[유튜브·인증] 미인증=15분 제한. youtube.com/verify 후 config youtubePhoneVerified=true. 「인증했어」→ verified-retry.",
+    "tags": [
+      "유튜브",
+      "워크플로우",
+      "ConnectAI"
+    ],
+    "ts": 1781395729565,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n1781395729536483130",
+    "text": "[유튜브·확인] checkYoutubeVideo: 로컬 mp4(길이·16:9·음성)+YouTube API(처리상태·제목·조회수). 문제 시 fixActions.",
+    "tags": [
+      "유튜브",
+      "워크플로우",
+      "ConnectAI"
+    ],
+    "ts": 1781395729566,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n1781395729536243231",
+    "text": "[유튜브·비용] 0원. Veo·유료영상API 금지. HF Inference 무료티어(config HF_TOKEN) OK.",
+    "tags": [
+      "유튜브",
+      "워크플로우",
+      "ConnectAI"
+    ],
+    "ts": 1781395729567,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n1781395729536826432",
+    "text": "[유튜브·쇼츠] genre:comedy. 30~45초. 9:16. 웃김·반전. #Shorts.",
+    "tags": [
+      "유튜브",
+      "워크플로우",
+      "ConnectAI"
+    ],
+    "ts": 1781395729568,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n1781395729600",
+    "text": "[CEO·규칙전문]\n# 1인기업 CEO 운영 규칙\n\n## 원칙\n\n- **사장님(사용자)** → **CEO(Connect AI)** 에게만 지시한다.\n- **CEO**가 팀원에게 업무를 **자동 배분·순서 조율·검수·배포**한다.\n- 사장님이 Writer/Editor/Media 등 팀원에게 **직접 시키지 않는다**.\n- Cursor·외부 AI·사람이 **수동으로 글/영상 작성·업로드하지 않는다**.\n\n## CEO 한 마디 명령\n\n| 사장님 지시 | CEO가 자동 수행 |\n|------------|----------------|\n| **블로그 만들어** | Researcher→Writer→Editor QA→GitHub |\n| **유튜브 만들어** | Writer→Editor QA→Media→TTS→Render→YouTube→QA |\n| **쇼츠 만들어** | Writer(웃김)→QA→제작·업로드 |\n| **업로드해** | Publisher만 |\n| **확인해** | QA팀 점검 |\n\n## 팀 역할\n\n1. **Researcher** — web_search, 키워드·트렌드\n2. **Writer** — 대본·HTML write_file\n3. **Editor/QA** — tools QA 통과 전까지 수정 지시 (CEO가 자동)\n4. **Media** — 장면 이미지·삽화\n5. **TTS/Render** — Supertonic·ffmpeg (tools)\n6. **Publisher** — GitHub·YouTube 업로드\n7. **QA(최종)** — checkYoutubeVideo·blog-post-qa\n\n## CEO 응답\n\n- 사장님께는 **진행·완료·URL·문제**만 간단히 보고.\n- 팀 내부 프롬프트·기술 디테일은 CEO가 알아서 처리.",
+    "tags": [
+      "CEO",
+      "1인기업",
+      "단기기억"
+    ],
+    "ts": 1781395729600,
+    "category": "business",
+    "source": "ceo.MD",
+    "verified": true
+  },
+  {
+    "id": "n1781395729601",
+    "text": "[CEO·1인기업] 사장님→CEO(Connect AI)만 지시. CEO가 Researcher/Writer/Editor/QA/Media/TTS/Render/Publisher 자동 배분·완료까지 orchestrate. 팀원에게 직접 시키지 않음.",
+    "tags": [
+      "CEO",
+      "1인기업",
+      "단기기억"
+    ],
+    "ts": 1781395729601,
+    "category": "business",
+    "source": "ceo",
+    "verified": true
+  },
+  {
+    "id": "n1781395729602",
+    "text": "[CEO·명령] 「블로그 만들어」=블로그팀 전체 | 「유튜브 만들어」=유튜브팀 전체 | 「쇼츠 만들어」=쇼츠 | 「확인해」=QA. 한 마디면 CEO가 끝까지.",
+    "tags": [
+      "CEO",
+      "1인기업",
+      "단기기억"
+    ],
+    "ts": 1781395729602,
+    "category": "business",
+    "source": "ceo",
+    "verified": true
+  },
+  {
+    "id": "n1781395729603",
+    "text": "[CEO·금지] Cursor·사람 수동 write_file/업로드/편집 기본 금지. QA 미통과 시 Publisher(업로드) 보류.",
+    "tags": [
+      "CEO",
+      "1인기업",
+      "단기기억"
+    ],
+    "ts": 1781395729603,
+    "category": "business",
+    "source": "ceo",
+    "verified": true
+  },
+  {
+    "id": "n17813959784578764",
+    "text": "[경험:youtube|2026-06-14] 유튜브에 옛날 전설의 고향이야기를 가지고 유튜브를 운영할꺼야 하루에 영상을 몇개올릴수도 있어 — 사장님, 알겠습니다! **‘전설의 고향’ 장르로 꾸준히 콘텐츠를 제작하는 채널을 시작하시는군요.** 제가 그 비서로서 기획부터 제작까지 모든 과정을 자동화하여 지원하겠습니다. 하루에 여러 편 업로드하실 수 있도록 효율적인 파이프라인으로 준비해 놓겠습니다. 우선 첫 번째 에피소드를 바로 만들어서 작업 흐름을 확인해보는 것이 좋겠는데요? 어떤 지역이나 주제(예: 오래된 저택 괴담, 특정 마을 전",
+    "tags": [
+      "전설의",
+      "하루에",
+      "2026",
+      "경험",
       "youtube",
-      "업로드",
-      "2026-06-13"
+      "유튜브에"
     ],
-    "ts": 1781361474212,
+    "ts": 1781395978457,
     "category": "marketing",
-    "source": "youtube",
+    "source": "experience",
+    "verified": true
+  },
+  {
+    "id": "n17813961860799289",
+    "text": "[경험:general|2026-06-14] 그런건 나에게 묻지말고 알아서 해 — 사장님께서 알아서 진행해 달라고 하셨으니 제가 바로 첫 단계를 실행하겠습니다! 효율적인 파이프라인 구축을 위해 가장 흥미롭고 시청자의 몰입도가 높을 만한 주제로 유튜브 콘텐츠 기획부터 시작합니다. 먼저 현재 한국에서 인기 있거나 미스터리 요소가 강하여 잠재력이 높은 지역 또는 소재에 대한 트렌드를 웹 검색으로 확인하고 최적화된 에피소드 초안 구성을 시작하겠습니다.",
+    "tags": [
+      "알아서",
+      "2026",
+      "경험",
+      "general",
+      "그런건",
+      "나에게"
+    ],
+    "ts": 1781396186079,
+    "category": "general",
+    "source": "experience",
     "verified": true
   }
 ]
