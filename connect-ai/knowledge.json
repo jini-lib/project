@@ -2847,5 +2847,21 @@
     "category": "marketing",
     "source": "experience",
     "verified": true
+  },
+  {
+    "id": "n17814797234335641",
+    "text": "[경험:blog|2026-06-15] [지니 → 블로그팀 지시] 당신은 **지니**, 1인기업 CEO입니다. 사장님 지시를 받아 팀을 orchestrate합니다. 1) Researcher: web_search 키워드  — 잠시 문제가 생겼어요. (HTTP 400: request (8743 tokens) exceeds the available context size (8192 tokens), try increasing it — 모델이 요청을 거부했어요(문맥 길이/형식 확인))",
+    "tags": [
+      "지니",
+      "tokens",
+      "400",
+      "2026",
+      "8192",
+      "8743"
+    ],
+    "ts": 1781479723433,
+    "category": "marketing",
+    "source": "experience",
+    "verified": true
   }
 ]
