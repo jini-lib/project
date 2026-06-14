@@ -2831,5 +2831,21 @@
     "category": "research",
     "source": "team-principle",
     "verified": true
+  },
+  {
+    "id": "n17814587114746035",
+    "text": "[경험:blog|2026-06-15] [CEO→Writer 루나] **블로그.MD 위반:** 블로그.MD 미준수 **필수:** read_file D:\\JINIPRO\\BLOG\\블로그.MD → 본문(HTML제외) **1, — 사장님, 반복되는 지시로 인해 혼란을 드려 죄송합니다.<br><br>현재 블로그 작성을 위한 핵심 키워드가 아직 제공되지 않아 작업을 시작할 수 없습니다.\\<span style=\"color: red;\">규칙에 따라 제목과 본문에 녹여야 할 \\[주요 키워드]를 알려주시지 않으면 콘텐츠 생성이 불가능합니다.&lt;/span&gt;<br><br>**지금 바로 어떤 주제의 글이 필요하신가요?** 예",
+    "tags": [
+      "블로그",
+      "blog",
+      "span",
+      "2026",
+      "경험",
+      "ceo"
+    ],
+    "ts": 1781458711475,
+    "category": "marketing",
+    "source": "experience",
+    "verified": true
   }
 ]
