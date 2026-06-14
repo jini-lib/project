@@ -2863,5 +2863,53 @@
     "category": "marketing",
     "source": "experience",
     "verified": true
+  },
+  {
+    "id": "n17814799504246292",
+    "text": "[경험:blog|2026-06-15] [CEO→Writer] write_file **한 편만** 저장하세요. path: D:\\JINIPRO\\BLOG\\2026-06-15\\01-blog.html 채팅에 HTML 붙여넣기  — 사장님! 요청하신 대로 인기 키워드를 웹 검색으로 조사하고 블로그 글을 작성하여 지정된 경로와 파일명으로 즉시 생성하겠습니다.$^$$ 현재 할 일 목록 중 'PayPal 계정 만들기' 및 '유튜브 채널 개설 연동' 관련 작업은 보류합니다.$\\^{}$ 오직 사장님의 지시에 따라 지금 당장의 블로그 작성을 최우선적으로 진행하겠습니다.$^$$ <web\\_search>최신 트렌드 마케팅 전략</we",
+    "tags": [
+      "blog",
+      "2026",
+      "html",
+      "블로그",
+      "경험",
+      "ceo"
+    ],
+    "ts": 1781479950424,
+    "category": "marketing",
+    "source": "experience",
+    "verified": true
+  },
+  {
+    "id": "n17814800266707155",
+    "text": "[경험:blog|2026-06-15] [CEO→Writer] **지금 write_file 1회** — path=D:\\JINIPRO\\BLOG\\2026-06-15\\01-blog.html <!DOCTYPE html> 포함  — 사용자는 특정 경로(`D:\\\\JINIPRO\\\\BLOG\\\\` 아래의 `YYYYMMDD` 폴더 내), 파일 이름 (`...\\backslash \\text{파일명}.html`) 으로 전체 내용을 새로 작성하라고 명령했습니다.<br><br>**요청 사항 분석:**<ol><li><strong>작업 유형</strong>: $\\text{write\\_file}$.</li><li><strong>경로</stro",
+    "tags": [
+      "blog",
+      "html",
+      "strong",
+      "2026",
+      "write",
+      "file"
+    ],
+    "ts": 1781480026670,
+    "category": "marketing",
+    "source": "experience",
+    "verified": true
+  },
+  {
+    "id": "n17814803107314622",
+    "text": "[경험:blog|2026-06-15] [CEO→Writer 루나] **원인:** HTML 없음 — write_file 필요 **지금 write_file 1회만** — path: D:\\JINIPRO\\BLOG\\2026-0 — 잠시 문제가 생겼어요. (HTTP 400: request (10404 tokens) exceeds the available context size (8192 tokens), try increasing it — 모델이 요청을 거부했어요(문맥 길이/형식 확인))",
+    "tags": [
+      "2026",
+      "blog",
+      "write",
+      "file",
+      "tokens",
+      "400"
+    ],
+    "ts": 1781480310731,
+    "category": "marketing",
+    "source": "experience",
+    "verified": true
   }
 ]
