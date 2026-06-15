@@ -706,7 +706,7 @@
   },
   {
     "id": "n17813535697917032",
-    "text": "[파일·문맥 규칙] 블로그 작업 시 read_file 우선순위: ① D:\\JINI-PRO\\BLOG\\블로그.MD ② 단기기억 [책:...] 중 키워드 매칭 노트 ③ 기존 HTML 스타일 참고. 경로 변형·번역 금지. Windows 백슬래시 유지.",
+    "text": "[파일·문맥 규칙] 블로그 작업 시 read_file 우선순위: ① D:\\JINIPRO\\BLOG\\블로그.MD ② 단기기억 [책:...] 중 키워드 매칭 노트 ③ 기존 HTML 스타일 참고. 경로 변형·번역 금지. Windows 백슬래시 유지.",
     "tags": [
       "문맥",
       "파일",
@@ -1398,7 +1398,7 @@
   },
   {
     "id": "n17815307047674770",
-    "text": "[단기기억·블로그.MD 전문] (파일: D:\\\\JINIPRO\\RULES\\blog.MD)\n# 블로그 작성 규칙 (블로그.MD 동기화)\n\n1. 인터넷을 서치해서 인기있는 키워드를 찾고 그 키워드 제목을 만들어서 블로그를 작성한다.\n2. 분량: 공백 포함 **1,500자 ~ 3,000자** 내외.\n3. 작성 방식: 다른 글을 그대로 베끼지 말고, 독창적인 문장으로 새로 쓴다.\n4. 경험 가치: '나의 경험'이 담긴 듯한 말투와 예시를 포함. 독자가 공감할 수 있는 친절한 어투(해요체).\n5. 구조: 서론(공감 및 문제 제기) → 본론(소제목을 활용한 정보 전달) → 결론(핵심 요약 및 인사).\n6. 주요 키워드를 제목과 본문에 자연스럽게 녹인다.\n7. 이미지: 글 중간에 [사진: ~에 대한 사진 설명] 플레이스홀더.\n8. 가독성: 중요한 문장은 굵게 표시하고, 문단 사이 적절한 여백.\n\n저장: `BLOG/오늘날짜/01-주제-slug.html` (날짜 폴더 바로 아래, 하위폴더 금지)\n경로: Windows 백슬래시 그대로. read_file/write_file 경로 변형 금지.",
+    "text": "[단기기억·블로그.MD 전문] (파일: D:\\\\JINIPRO\\RULES\\blog.MD)\n# 블로그 작성 규칙 (블로그.MD 동기화)\n\n1. 인터넷을 서치해서 인기있는 키워드를 찾고 그 키워드 제목을 만들어서 블로그를 작성한다.\n2. 분량: 공백 포함 **1,500자 ~ 3,000자** 내외.\n3. 작성 방식: 다른 글을 그대로 베끼지 말고, 독창적인 문장으로 새로 쓴다.\n4. 경험 가치: '나의 경험'이 담긴 듯한 말투와 예시를 포함. 독자가 공감할 수 있는 친절한 어투(해요체).\n5. 구조: 서론(공감 및 문제 제기) → 본론(소제목을 활용한 정보 전달) → 결론(핵심 요약 및 인사).\n6. 주요 키워드를 제목과 본문에 자연스럽게 녹인다.\n7. 이미지: 글 중간에 [사진: ~에 대한 사진 설명] 플레이스홀더.\n8. 가독성: 중요한 문장은 굵게 표시하고, 문단 사이 적절한 여백.\n\n저장: `BLOG\\오늘날짜\\01-주제-slug.html` (날짜 폴더 바로 아래, 하위폴더 금지)\n경로: Windows 백슬래시 그대로. read_file\\write_file 경로 변형 금지.",
     "tags": [
       "블로그",
       "blog",
@@ -1647,7 +1647,7 @@
   },
   {
     "id": "n178153070483441730",
-    "text": "[유튜브·플레이북] youtube-playbook.MD\n# Connect AI · 유튜브 제작 플레이북 (단기기억용)\n\n> Cursor/사람 수동 X — Connect AI가 tools + IPC로 **전부 자동** 실행.\n\n## 채팅 명령 → 동작\n\n| 명령 | 동작 |\n|------|------|\n| **유튜브 만들어** | 롱폼 1편: 대본(JSON) → 제작 → 업로드 → **확인** |\n| **쇼츠 만들어** | 웃김 쇼츠 1편 |\n| **업로드해** | 오늘 VIDEO 폴더 mp4 업로드 + 확인 |\n| **유튜브 확인해** / **동영상 확인해** | YouTube API + 로컬 mp4 점검 |\n| **인증했어** | 휴대폰 인증 반영 → 긴 영상 재업로드 |\n\n## 팀 역할 (Connect AI 내부)\n\n1. **Writer** — `write_file`로 `VIDEO/YYYY-MM-DD/long-01.json` (또는 shorts-01.json)만 작성. `run_command` 금지.\n2. **Media** — 장면마다 `imagePrompt`·`stockQuery`(영어, 대사 연관). **HF FLUX 애니풍 삽화** → ffmpeg 줌·팬 = **애니메이션 동영상**. narration **같은 문장 반복 절대 금지**.\n3. **TTS** — Supertonic **02번 F1만** (speed 0.84, steps 8). 다화자 금지.\n4. **Render** — ffmpeg, 롱폼 **1920×1080 가로 16:9**, 장면=삽화+줌·팬.\n5. **Upload** — YouTube OAuth, 인증 채널은 15분+ 가능.\n6. **QA** — 업로드 후 `checkYoutubeVideo`: 길이·처리상태·음성·비율.\n\n## 대본 JSON 필드 (롱폼)\n\n```json\n{\n  \"type\": \"long\",\n  \"genre\": \"legend_homeland_mystery\",\n  \"title\": \"전설의 고향 | {괴담 제목}\",\n  \"filename\": \"long-legend-xxx\",\n  \"scenes\": [{\n    \"speaker\": \"narrator|elder|ghost|…\",\n    \"narration\": \"읽을 내용 (반복 금지)\",\n    \"subtitle\": \"짧은 자막\",\n    \"imagePrompt\": \"old bus foggy night horror anime illustration\",\n    \"stockQuery\": \"old bus fog night\"\n  }]\n}\n```\n\n## 제작 파이프라인 (tools)\n\n```\nWriter → Editor QA (youtube-script-qa.js)\nyoutube-job.js\n  → enrichScenes + dedupeNarration (반복 제거)\n  → Supertonic TTS (youtube-tts.js)\n  → 장면 삽화: **HF FLUX.1-schnell(애니풍)** → Pollinations → fallback slide (free-media.js, scene-visual.js)\n  → ffmpeg 합치기 (youtube-render.js) 16:9 롱폼 — **삽화+줌·팬=애니메이션 동영상**\n  → YouTube 업로드 (youtube-upload.js)\n  → verifyAndFix + checkYoutubeVideo (youtube-verify.js)\n```\n\n**도구 경로:** `D:\\\\JINIPRO\\tools\\`  \n**출력:** `D:\\\\JINIPRO\\VIDEO\\YYYY-MM-DD\\`  \n**Connect AI IPC:** `connect.youtubeProduce`, `youtubeCheckVideo`, `youtubeVerifiedRetry`\n\n## 필수 규칙\n\n- **비용 0원** — Veo·유료 영상 API 금지. HF Inference **무료 티어**(config HF_TOKEN) OK.\n- **narration 반복 금지** — 분량은 새 내용으로. 제작 시 `dedupeNarration` 자동 적용.\n- **롱폼 길이** — **이야기·TTS 길이 = 영상 길이**. 장면·분량 줄이기·합치기 **금지**. QA도 상한 없음.\n- **롱폼 가로 16:9** — `type:long`, `isShort` 사용 금지.\n- **15분 제한** — 미인증 채널. 인증: https://www.youtube.com/verify → 「인증했어」\n- **제목** — `전설의 고향 | {괴담}`\n\n## Supertonic (TTS)\n\n제작 전: `node D:\\\\JINIPRO\\tools\\setup-supertonic-tts.js`  \n포트: http://127.0.0.1:7788\n\n## 알려진 이슈·대응\n\n| 문제 | Connect AI 대응 |\n|------|-----------------|\n| 같은 글 반복 | dedupeNarration + 대본 규칙 |\n| 15분 업로드 실패 | verify → 「인증했어」→ 재업로드 |\n| 세로 영상 | isShort=false, 1920×1080 렌더 |\n| AI 삽화 실패 | HF router API 재시도(config HF_TOKEN). local-slide만 나오면 **애니 미적용** — 재제작 |\n| 업로드 후 확인 | checkYoutubeVideo 자동 |\n\n## Connect AI가 하지 말 것\n\n- Clipchamp 수동 편집 (기본 경로)\n- Cursor에서 youtube-job 직접 실행 (사용자 요청 시만)\n- narration 같은 문장 2회 이상 복붙",
+    "text": "[유튜브·플레이북] youtube-playbook.MD\n# Connect AI · 유튜브 제작 플레이북 (단기기억용)\n\n> Cursor\\사람 수동 X — Connect AI가 tools + IPC로 **전부 자동** 실행.\n\n## 채팅 명령 → 동작\n\n| 명령 | 동작 |\n|------|------|\n| **유튜브 만들어** | 롱폼 1편: 대본(JSON) → 제작 → 업로드 → **확인** |\n| **쇼츠 만들어** | 웃김 쇼츠 1편 |\n| **업로드해** | 오늘 VIDEO 폴더 mp4 업로드 + 확인 |\n| **유튜브 확인해** \\ **동영상 확인해** | YouTube API + 로컬 mp4 점검 |\n| **인증했어** | 휴대폰 인증 반영 → 긴 영상 재업로드 |\n\n## 팀 역할 (Connect AI 내부)\n\n1. **Writer** — `write_file`로 `VIDEO\\YYYY-MM-DD\\long-01.json` (또는 shorts-01.json)만 작성. `run_command` 금지.\n2. **Media** — 장면마다 `imagePrompt`·`stockQuery`(영어, 대사 연관). **HF FLUX 애니풍 삽화** → ffmpeg 줌·팬 = **애니메이션 동영상**. narration **같은 문장 반복 절대 금지**.\n3. **TTS** — Supertonic **02번 F1만** (speed 0.84, steps 8). 다화자 금지.\n4. **Render** — ffmpeg, 롱폼 **1920×1080 가로 16:9**, 장면=삽화+줌·팬.\n5. **Upload** — YouTube OAuth, 인증 채널은 15분+ 가능.\n6. **QA** — 업로드 후 `checkYoutubeVideo`: 길이·처리상태·음성·비율.\n\n## 대본 JSON 필드 (롱폼)\n\n```json\n{\n  \"type\": \"long\",\n  \"genre\": \"legend_homeland_mystery\",\n  \"title\": \"전설의 고향 | {괴담 제목}\",\n  \"filename\": \"long-legend-xxx\",\n  \"scenes\": [{\n    \"speaker\": \"narrator|elder|ghost|…\",\n    \"narration\": \"읽을 내용 (반복 금지)\",\n    \"subtitle\": \"짧은 자막\",\n    \"imagePrompt\": \"old bus foggy night horror anime illustration\",\n    \"stockQuery\": \"old bus fog night\"\n  }]\n}\n```\n\n## 제작 파이프라인 (tools)\n\n```\nWriter → Editor QA (youtube-script-qa.js)\nyoutube-job.js\n  → enrichScenes + dedupeNarration (반복 제거)\n  → Supertonic TTS (youtube-tts.js)\n  → 장면 삽화: **HF FLUX.1-schnell(애니풍)** → Pollinations → fallback slide (free-media.js, scene-visual.js)\n  → ffmpeg 합치기 (youtube-render.js) 16:9 롱폼 — **삽화+줌·팬=애니메이션 동영상**\n  → YouTube 업로드 (youtube-upload.js)\n  → verifyAndFix + checkYoutubeVideo (youtube-verify.js)\n```\n\n**도구 경로:** `D:\\\\JINIPRO\\tools\\`  \n**출력:** `D:\\\\JINIPRO\\VIDEO\\YYYY-MM-DD\\`  \n**Connect AI IPC:** `connect.youtubeProduce`, `youtubeCheckVideo`, `youtubeVerifiedRetry`\n\n## 필수 규칙\n\n- **비용 0원** — Veo·유료 영상 API 금지. HF Inference **무료 티어**(config HF_TOKEN) OK.\n- **narration 반복 금지** — 분량은 새 내용으로. 제작 시 `dedupeNarration` 자동 적용.\n- **롱폼 길이** — **이야기·TTS 길이 = 영상 길이**. 장면·분량 줄이기·합치기 **금지**. QA도 상한 없음.\n- **롱폼 가로 16:9** — `type:long`, `isShort` 사용 금지.\n- **15분 제한** — 미인증 채널. 인증: https:\\\\www.youtube.com\\verify → 「인증했어」\n- **제목** — `전설의 고향 | {괴담}`\n\n## Supertonic (TTS)\n\n제작 전: `node D:\\\\JINIPRO\\tools\\setup-supertonic-tts.js`  \n포트: http:\\\\127.0.0.1:7788\n\n## 알려진 이슈·대응\n\n| 문제 | Connect AI 대응 |\n|------|-----------------|\n| 같은 글 반복 | dedupeNarration + 대본 규칙 |\n| 15분 업로드 실패 | verify → 「인증했어」→ 재업로드 |\n| 세로 영상 | isShort=false, 1920×1080 렌더 |\n| AI 삽화 실패 | HF router API 재시도(config HF_TOKEN). local-slide만 나오면 **애니 미적용** — 재제작 |\n| 업로드 후 확인 | checkYoutubeVideo 자동 |\n\n## Connect AI가 하지 말 것\n\n- Clipchamp 수동 편집 (기본 경로)\n- Cursor에서 youtube-job 직접 실행 (사용자 요청 시만)\n- narration 같은 문장 2회 이상 복붙",
     "tags": [
       "유튜브",
       "playbook",
@@ -1991,6 +1991,22 @@
     "ts": 1781530704950,
     "category": "research",
     "source": "team-principle",
+    "verified": true
+  },
+  {
+    "id": "n17815395317138676",
+    "text": "[경험:blog|2026-06-15] 블로그 만들어. — 잠시 문제가 생겼어요. (HTTP 500: Failed to parse tool call arguments as JSON: [json.exception.parse_error.101] parse error at line 1, column 8794: syntax error while parsing value - invalid string: missing closing quote; last rea",
+    "tags": [
+      "parse",
+      "error",
+      "json",
+      "101",
+      "500",
+      "2026"
+    ],
+    "ts": 1781539531714,
+    "category": "marketing",
+    "source": "experience",
     "verified": true
   }
 ]
